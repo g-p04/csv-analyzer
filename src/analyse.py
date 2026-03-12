@@ -11,11 +11,11 @@ def total_price_by_country(df):
 
 #returns total volume from highest to lowest
 def total_volume_by_country(df):
-    return df.goupby("destination_country")["volume"].sum().sort_values(ascending=False)
+    return df.groupby("destination_country")["volume"].sum().sort_values(ascending=False)
 
 #return amount of deliveries by country
 def total_deliveries_by_country(df):
-    return df.goupby("destination_country").size().sort_values(ascending=False)
+    return df.groupby("destination_country").size().sort_values(ascending=False)
 
 def average_price_per_delivery(df):
     return df["total_price"].mean()
@@ -27,4 +27,7 @@ def add_price_per_volume(df):
     df = df.copy()
     df["price_per_volume"] = df["total_price"] / df["volume"]
     return df
+
+def average_price_by_country(df):
+    return df.groupby("destination_country")["total_price"].mean().sort_values(ascending=False)
 
