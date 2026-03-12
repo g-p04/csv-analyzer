@@ -1,10 +1,13 @@
 from src.load import load_data
-from src.display import plot_top_countries
-from src.analyse import total_price_by_country
+from src.display import *
+from src.analyse import *
 
 def main():
     df = load_data("data/MOCK_DATA.csv")
-    plot_top_countries(total_price_by_country(df))
+    overview = dataset_overview(df)
+    print("Zeilen:", overview["rows"])
+    print("Spalten:", overview["columns"])
+    print("Fehlende Werte:", overview["missing_values"])
 
 if __name__ == "__main__":
     main()
