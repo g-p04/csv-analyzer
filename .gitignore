@@ -1,0 +1,33 @@
+# Python cache
+
+**pycache**/
+\*.pyc
+
+# Virtual Environment
+
+venv/
+
+# Mac system files
+
+.DS_Store
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Environment variables
+
+.env
+
+# VSCode settings
+
+.vscode/
+
+# Build files
+
+build/
+dist/
+
+# Output plots
+
+output/
