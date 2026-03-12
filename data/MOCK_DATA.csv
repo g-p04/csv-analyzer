@@ -1,0 +1,1001 @@
+delivery_id,product_type,volume,unit_price,total_price,origin_country,destination_country,transport_method,loading_time,unloading_time,driver_name,customer_name,customer_address
+1,Heating Oil,7288.35,3.94,28716.099,Chile,Argentina,Ship,12/11/2022,2/27/2022,Arron Hugnot,Phillipp Rival,41 Corry Center
+2,Diesel,1557.59,2.46,3831.6714,Indonesia,Brazil,Pipeline,12/18/2022,9/9/2022,Roseann Balchen,Kellen Eggleson,162 Portage Park
+3,Heating Oil,9213.78,4.33,39895.6674,China,Greece,Pipeline,1/12/2022,5/7/2022,Anabelle Stukings,Cullie Farncombe,37770 Schlimgen Point
+4,Diesel,282.96,4.27,1208.2392,Portugal,France,Ship,1/20/2022,11/11/2022,Aryn Stockwell,Willy Bridle,261 Forest Junction
+5,Diesel,6600.03,1.73,11418.0519,China,China,Ship,11/17/2022,8/2/2022,Karlyn Meake,Leontine Withrington,0 Mcguire Way
+6,Gasoline,570.27,3.04,1733.6208,Finland,China,Tank Truck,12/17/2022,10/11/2022,Tabby Pickover,Gabbey Spondley,480 Helena Point
+7,Diesel,8867.91,4.99,44250.8709,China,Bosnia and Herzegovina,Tank Truck,4/2/2022,8/4/2022,Cordie Pley,Ivor Maggi,45 Fordem Plaza
+8,Diesel,4322.4,2.72,11756.928,Nigeria,Mexico,Tank Truck,12/27/2022,10/22/2022,Puff Else,Mac Goymer,82269 Surrey Way
+9,Heating Oil,2676.92,1.09,2917.8428,Honduras,China,Tank Truck,3/28/2022,3/29/2022,Arlette Burnes,Slade Ogilvy,4273 Maryland Avenue
+10,Gasoline,741.19,2.27,1682.5013,Argentina,Poland,Tank Truck,1/6/2022,10/17/2022,Rustin Mate,Devan Elleray,8 Eastwood Park
+11,Diesel,9685.07,4.03,39030.8321,Czech Republic,Democratic Republic of the Congo,Pipeline,4/21/2022,1/28/2022,Curran Emslie,Keith Sawley,922 Melby Park
+12,Gasoline,8383.31,2.07,17353.4517,Albania,China,Ship,1/17/2022,11/6/2022,Gussy Yekel,Marji Harses,83 Basil Circle
+13,Gasoline,4346.05,3.82,16601.911,Bulgaria,Syria,Pipeline,7/13/2022,10/23/2022,Isa Jerche,Ivette Ikins,8002 Mandrake Place
+14,Diesel,9124.31,3.14,28650.3334,China,Russia,Pipeline,2/13/2022,5/12/2022,Marleen Pollicatt,West Horney,92 Troy Road
+15,Diesel,6098.49,2.07,12623.8743,Philippines,Bosnia and Herzegovina,Tank Truck,12/16/2022,2/12/2022,Gwenora Housiaux,Lisette Woollhead,5031 Holy Cross Drive
+16,Diesel,4101.98,1.27,5209.5146,Jamaica,China,Pipeline,1/23/2022,5/30/2022,Malva Harrell,Torey Leake,2 Susan Park
+17,Gasoline,1468.27,3.2,4698.464,Ukraine,Indonesia,Pipeline,7/19/2022,11/17/2022,Padraic Edland,Rosana McJarrow,30 Jenifer Center
+18,Diesel,5952.8,1.33,7917.224,Macedonia,Indonesia,Tank Truck,12/22/2022,5/30/2022,Tallie Allabush,Emmit Dougill,3789 Laurel Drive
+19,Heating Oil,3396.78,2.89,9816.6942,Canada,Bulgaria,Pipeline,1/14/2022,8/31/2022,Vergil Knoton,Annecorinne Cherm,6 Cordelia Park
+20,Diesel,5223.89,2.7,14104.503,Ukraine,China,Pipeline,12/10/2022,7/24/2022,Efrem MacCulloch,Gui O'Spellissey,8601 Dunning Way
+21,Diesel,1103.57,3.27,3608.6739,France,Indonesia,Pipeline,7/26/2022,3/26/2022,Ferdinanda Furzer,Dre Crease,00283 Leroy Point
+22,Heating Oil,7538.84,2.77,20882.5868,Russia,China,Pipeline,9/27/2022,6/20/2022,Temp Czyz,Alma Seacombe,8 Sachtjen Avenue
+23,Gasoline,1703.58,4.01,6831.3558,Portugal,France,Pipeline,5/5/2022,8/10/2022,Shaylah Yate,Sigvard Swales,6 Elmside Lane
+24,Diesel,449.73,2.85,1281.7305,Bulgaria,Indonesia,Pipeline,1/15/2022,8/19/2022,Hanson Hansley,Giulio Slafford,84 Surrey Terrace
+25,Heating Oil,9039.74,3.86,34893.3964,China,Brazil,Pipeline,11/18/2022,8/2/2022,Ravid Laugherane,Fons Wais,7532 Farmco Street
+26,Diesel,4253.17,1.71,7272.9207,Brazil,Mexico,Tank Truck,11/29/2022,1/1/2022,Arlana Cleverly,Decca Vagges,78357 Anhalt Terrace
+27,Diesel,1962.02,1.78,3492.3956,France,China,Tank Truck,10/19/2022,12/4/2022,Albert Dagnan,Kirby Speariett,7054 Hansons Point
+28,Diesel,1643.33,3.04,4995.7232,Portugal,China,Ship,3/9/2022,7/27/2022,Adella Canelas,Arturo Geare,80 Bowman Circle
+29,Gasoline,7588.21,1.74,13203.4854,French Guiana,Argentina,Pipeline,8/27/2022,8/7/2022,Gus Yakuntsov,Addison Stare,557 Haas Terrace
+30,Diesel,8646.01,1.37,11845.0337,Brazil,Macedonia,Pipeline,12/21/2022,4/23/2022,Erma Oles,Darcie Walling,638 3rd Court
+31,Heating Oil,8570.85,4.25,36426.1125,Ireland,Indonesia,Pipeline,4/2/2022,4/11/2022,Breena La Grange,Guillema Julyan,3041 Lillian Drive
+32,Heating Oil,6927.06,1.28,8866.6368,Indonesia,Indonesia,Tank Truck,9/1/2022,5/20/2022,Poul Abraham,Pansy Engelmann,807 Pawling Lane
+33,Diesel,7440.75,1.03,7663.9725,Serbia,Thailand,Ship,4/22/2022,8/4/2022,Patrizius Stanyer,Eloise Gerraty,1257 Prairie Rose Alley
+34,Gasoline,3144.14,4.24,13331.1536,China,China,Ship,9/30/2022,9/7/2022,Sanderson Mingaud,Dorolice Mobbs,8 Sheridan Park
+35,Heating Oil,7030.16,1.73,12162.1768,Armenia,Mexico,Pipeline,1/18/2022,5/7/2022,Gennie Buer,Emmaline Hinken,576 Blue Bill Park Avenue
+36,Gasoline,733.03,4.9,3591.847,Serbia,Benin,Tank Truck,8/10/2022,5/25/2022,Minni Oldridge,Ganny Kempston,58389 Sage Parkway
+37,Diesel,6021.16,2.01,12102.5316,Dominican Republic,Uzbekistan,Ship,1/31/2022,5/12/2022,Armand Masterson,Angil Maymand,6965 Reindahl Center
+38,Diesel,2961.38,3.96,11727.0648,Haiti,Portugal,Pipeline,5/6/2022,10/23/2022,Sonnnie Vanyushin,Garald MacKibbon,61 Sloan Court
+39,Heating Oil,6694.35,2.65,17740.0275,Armenia,Brazil,Ship,5/13/2022,1/22/2022,Olag Yashnov,Salomo Bosma,230 International Center
+40,Gasoline,5183.71,4.13,21408.7223,Canada,China,Pipeline,3/28/2022,3/22/2022,Edin Carlsen,Paco Coleman,87 Twin Pines Place
+41,Gasoline,9815.31,1.23,12072.8313,Ghana,Honduras,Pipeline,4/6/2022,6/14/2022,Moria Jeanes,Michael Shurrock,383 Montana Court
+42,Diesel,854.12,1.94,1656.9928,Brazil,Dominican Republic,Ship,1/10/2022,8/28/2022,Georgette Callacher,Christine Iggalden,7 Daystar Court
+43,Diesel,551.1,3.05,1680.855,Indonesia,South Africa,Tank Truck,6/4/2022,2/13/2022,Morissa Sand,Halette De Caville,8 Pierstorff Pass
+44,Diesel,3663.6,4.64,16999.104,United States,Norway,Pipeline,12/9/2022,6/29/2022,Marieann Domleo,Donny Still,622 Larry Junction
+45,Heating Oil,5502.94,1.26,6933.7044,Poland,Mexico,Pipeline,1/9/2022,3/5/2022,Melodie Osband,Christiana Pratten,5 Merrick Crossing
+46,Heating Oil,4395.31,3.98,17493.3338,Poland,Netherlands,Ship,11/18/2022,11/11/2022,Ruthe Wastie,Winonah de Zamora,37 Laurel Hill
+47,Gasoline,6642.55,4.1,27234.455,Indonesia,Hong Kong,Ship,6/25/2022,9/2/2022,Edwin Bliven,Fredi Woolliams,3528 Superior Pass
+48,Heating Oil,9653.54,3.77,36393.8458,Russia,Mexico,Pipeline,1/20/2022,6/13/2022,Augustina Isacke,Rancell Briar,313 Corscot Trail
+49,Heating Oil,1553.49,1.86,2889.4914,China,South Korea,Tank Truck,11/12/2022,11/27/2022,Dasie Rankling,Aurthur Berth,5059 Buhler Road
+50,Gasoline,7292.5,2.21,16116.425,Indonesia,Madagascar,Pipeline,6/11/2022,2/18/2022,Rosabelle Heed,Cherilynn Woodworth,201 Lotheville Street
+51,Gasoline,1190.91,2.71,3227.3661,China,France,Pipeline,9/8/2022,1/23/2022,Mathilda Ciccottini,Maria Bickersteth,8 Jay Park
+52,Gasoline,5553.25,3.26,18103.595,Cayman Islands,Portugal,Ship,5/3/2022,5/4/2022,Eduino Jaksic,Jessey Bushe,536 Shoshone Trail
+53,Gasoline,2249.6,4.68,10528.128,Indonesia,United States,Ship,4/27/2022,5/25/2022,Vaughan Dennert,Camala Bankhurst,1067 Monument Avenue
+54,Diesel,9703.77,1.44,13973.4288,Zambia,Finland,Pipeline,9/16/2022,2/10/2022,Alli Okenden,Ewen Daniel,4 Paget Circle
+55,Gasoline,1184.36,4.52,5353.3072,China,Portugal,Ship,1/7/2022,4/25/2022,Cull Crocroft,Stafford Kesley,2 Northfield Drive
+56,Diesel,7788.39,1.86,14486.4054,Argentina,China,Tank Truck,8/12/2022,5/19/2022,Clara Longforth,Kerwinn Ardy,53 Bartelt Plaza
+57,Gasoline,5802.89,3.93,22805.3577,France,China,Pipeline,6/14/2022,10/19/2022,Care Rashleigh,Dana Spradbery,0 Calypso Crossing
+58,Heating Oil,8654.6,3.91,33839.486,Brazil,Russia,Ship,1/2/2022,11/22/2022,Fitz Begent,Colly Worwood,1 Sutherland Street
+59,Diesel,8040.57,1.17,9407.4669,Netherlands,Ukraine,Pipeline,7/28/2022,5/12/2022,Emelyne O'Kynsillaghe,Deanne Sirmon,32776 Upham Trail
+60,Diesel,2897.24,3.11,9010.4164,China,Poland,Ship,3/25/2022,8/17/2022,Analise Fanti,Cornelius Bilby,61177 Kensington Plaza
+61,Gasoline,7433.6,2.49,18509.664,Indonesia,China,Pipeline,1/31/2022,8/25/2022,Waldo Martel,Drud Vasey,04 Portage Court
+62,Heating Oil,1565.27,2.59,4054.0493,Philippines,China,Pipeline,12/3/2022,2/9/2022,Joice Vernham,Dallis Wolfers,38 Schurz Street
+63,Gasoline,1434.32,4.31,6181.9192,Belgium,China,Ship,7/8/2022,11/25/2022,Nata Felten,Jaymie Meadley,7 Hoepker Junction
+64,Gasoline,5805.76,4.69,27229.0144,Brazil,Mexico,Tank Truck,2/11/2022,4/5/2022,Tracie Oosthout de Vree,Koressa Ioselevich,34 Thierer Park
+65,Gasoline,1545.94,3.88,5998.2472,Finland,Jordan,Tank Truck,11/23/2022,9/5/2022,Zollie Houdhury,Phaidra Krammer,4 Reindahl Plaza
+66,Diesel,4532.4,3.99,18084.276,Egypt,China,Tank Truck,6/24/2022,9/28/2022,Pammie Huebner,Dorine Besnard,2966 Ludington Hill
+67,Heating Oil,4965.43,2.02,10030.1686,Brazil,Indonesia,Ship,12/16/2022,10/12/2022,Andreas Slatford,Shamus Elmhirst,69535 Bobwhite Pass
+68,Gasoline,1866.63,2.49,4647.9087,United States,China,Ship,4/29/2022,7/28/2022,Livvyy Fish,Lucio Dobble,9889 Packers Lane
+69,Diesel,8468.18,2.93,24811.7674,United States,China,Pipeline,2/20/2022,4/6/2022,Lou Lough,Dougie Laxton,31258 Independence Hill
+70,Heating Oil,9347.73,1.67,15610.7091,Latvia,Zimbabwe,Ship,3/18/2022,8/26/2022,Ronna Sture,Tammara Hickinbottom,2 Twin Pines Center
+71,Heating Oil,4167.02,3.1,12917.762,Russia,Iran,Ship,6/20/2022,12/25/2022,Pet Midden,Roobbie Kondratenko,66 Chive Junction
+72,Diesel,1500.71,1.36,2040.9656,Japan,Indonesia,Pipeline,12/27/2022,7/11/2022,Winonah Jurges,Hanni Rose,69317 Columbus Circle
+73,Heating Oil,3939.54,3.62,14261.1348,China,Brazil,Ship,12/9/2022,9/4/2022,Garey Gouck,William Barenski,5786 Kinsman Plaza
+74,Diesel,422.97,3.39,1433.8683,France,China,Ship,12/22/2022,10/16/2022,Lennie O'Corrigane,Livvy Corbert,2 Garrison Drive
+75,Diesel,6036.67,4.59,27708.3153,Tajikistan,Canada,Pipeline,11/12/2022,11/16/2022,Wilow Hazleton,Evangelia Conechie,7176 Lakewood Gardens Place
+76,Heating Oil,2273.19,4.17,9479.2023,Philippines,Philippines,Pipeline,10/11/2022,3/1/2022,Allison Jachimiak,Drugi Smylie,2 Dennis Trail
+77,Heating Oil,1059.51,2.54,2691.1554,Russia,Guinea,Tank Truck,9/8/2022,10/22/2022,Cloe Blaiklock,Hollie Rattery,8 Columbus Crossing
+78,Diesel,4654.11,2.06,9587.4666,China,Brazil,Tank Truck,8/17/2022,7/6/2022,Ileana Albon,Joella Gulliford,20 Hagan Center
+79,Heating Oil,5189.35,2.15,11157.1025,Poland,Colombia,Ship,6/7/2022,2/14/2022,Maddie Perel,Charo Penrose,0 Longview Alley
+80,Gasoline,5778.52,2.59,14966.3668,Norway,Portugal,Pipeline,11/5/2022,7/4/2022,Cordelie Asken,Reggis Chaddock,2656 Thompson Terrace
+81,Gasoline,8876.79,3.39,30092.3181,Poland,Ukraine,Tank Truck,7/9/2022,1/12/2022,Cornie Jump,Jazmin Farguhar,3690 Calypso Pass
+82,Gasoline,9757.36,1.53,14928.7608,Indonesia,Indonesia,Tank Truck,9/3/2022,9/3/2022,Yorke McAirt,Juliana Vigne,35 Corry Plaza
+83,Heating Oil,8359.08,3.31,27668.5548,China,Armenia,Ship,3/15/2022,5/4/2022,Jerrilyn Codling,Christin Ford,7607 Washington Terrace
+84,Gasoline,6577.58,2.68,17627.9144,Czech Republic,China,Tank Truck,3/7/2022,5/31/2022,Harmon Lower,Em Strutt,8 Pearson Way
+85,Diesel,7296.92,3.08,22474.5136,Colombia,Cameroon,Tank Truck,2/4/2022,9/12/2022,Isadora Wynne,Donny Miranda,898 Texas Hill
+86,Diesel,9499.99,1.03,9784.9897,Honduras,China,Ship,7/26/2022,9/9/2022,Gerald Antonikov,Gottfried Capeloff,42 Mayfield Alley
+87,Heating Oil,3963.1,2.11,8362.141,Norway,Philippines,Tank Truck,12/12/2022,1/6/2022,Palm Fassam,Alfy Entissle,28326 Ridgeway Street
+88,Gasoline,4786.42,1.48,7083.9016,Poland,Portugal,Tank Truck,11/22/2022,3/10/2022,Tandi Bleibaum,Oralee Chessun,5 Texas Crossing
+89,Heating Oil,9591.61,4.72,45272.3992,United States,China,Tank Truck,7/9/2022,3/1/2022,Antony Cases,Vivyanne Langworthy,98673 Larry Center
+90,Diesel,7100.24,1.36,9656.3264,United States,Guatemala,Tank Truck,10/19/2022,9/14/2022,Filide Keelinge,Blakelee Berrisford,22 Oriole Crossing
+91,Diesel,7948.92,1.25,9936.15,Philippines,Australia,Pipeline,10/6/2022,3/18/2022,Zita Pandey,Forbes Ledley,505 Goodland Alley
+92,Diesel,336.06,2.66,893.9196,China,United Kingdom,Ship,10/7/2022,4/8/2022,Leo Battman,Elwin Torel,71843 Onsgard Lane
+93,Diesel,6699.64,1.42,9513.4888,China,Russia,Tank Truck,11/20/2022,1/30/2022,Amos Sneddon,Nehemiah Colls,4 Maywood Lane
+94,Heating Oil,5268.87,1.11,5848.4457,Philippines,Indonesia,Tank Truck,9/15/2022,12/23/2022,Bartholomeo Ewence,Wilhelm Pennington,53899 Stone Corner Point
+95,Heating Oil,3132.79,2.83,8865.7957,China,Germany,Tank Truck,7/3/2022,8/20/2022,Orrin Garthside,Kirstyn Mishow,24 Atwood Terrace
+96,Gasoline,2714.64,2.79,7573.8456,Argentina,South Africa,Ship,2/11/2022,9/8/2022,Norton Torbett,Eddie Terrelly,5509 Tomscot Parkway
+97,Heating Oil,6938.13,2.27,15749.5551,Russia,China,Pipeline,11/6/2022,3/2/2022,Gwenneth Aleksich,Agneta Flaonier,93 Kenwood Hill
+98,Heating Oil,3617.16,3.56,12877.0896,Czech Republic,Philippines,Ship,8/10/2022,1/28/2022,Pavla Ashford,Modesta Ordemann,5 Sachtjen Pass
+99,Heating Oil,2344.35,2.2,5157.57,Nepal,Vietnam,Ship,1/13/2022,3/7/2022,Hinze Flobert,Leo Lissemore,88 Meadow Vale Road
+100,Heating Oil,3478.69,1.66,5774.6254,France,Philippines,Pipeline,5/25/2022,10/6/2022,Jeth Seckom,Winfred Logg,7 American Point
+101,Heating Oil,7786.24,1.6,12457.984,Indonesia,Greece,Tank Truck,6/12/2022,11/2/2022,Estella Barrand,Clint Scamadin,69058 Nobel Plaza
+102,Heating Oil,135.77,3.0,407.31,Japan,Afghanistan,Ship,1/9/2022,9/15/2022,Jeffrey Merrington,Ines Crowe,09 Lighthouse Bay Drive
+103,Heating Oil,5004.33,2.26,11309.7858,Syria,Peru,Tank Truck,11/22/2022,9/13/2022,Noll Maggill'Andreis,Gaspar Runacres,97 Twin Pines Plaza
+104,Heating Oil,3948.39,2.08,8212.6512,Indonesia,Burkina Faso,Ship,3/25/2022,7/13/2022,Marven Borrell,Tawsha McDugal,53906 Dennis Hill
+105,Diesel,8767.55,3.87,33930.4185,Philippines,Indonesia,Ship,6/9/2022,3/10/2022,Cedric Wastall,Gale Tripet,6987 La Follette Place
+106,Heating Oil,3186.16,3.52,11215.2832,Slovenia,Indonesia,Pipeline,7/25/2022,5/9/2022,Toni Whales,Merle Bellingham,84 Mcguire Lane
+107,Diesel,2379.28,4.14,9850.2192,Greece,Portugal,Ship,4/23/2022,4/30/2022,Michell Stansell,Erica Tawton,673 Dottie Center
+108,Gasoline,2498.74,4.07,10169.8718,Japan,Syria,Tank Truck,12/11/2022,6/27/2022,Margy Higbin,Gradey Goulder,7265 Loeprich Crossing
+109,Gasoline,458.1,4.46,2043.126,United States,China,Pipeline,2/21/2022,7/13/2022,Annecorinne Quirke,Kerry Hagard,22400 Duke Junction
+110,Gasoline,4150.53,2.45,10168.7985,Greece,Peru,Ship,11/23/2022,6/17/2022,Ariel Albrook,Caprice Surphliss,754 Eggendart Street
+111,Heating Oil,1669.92,3.41,5694.4272,Russia,Russia,Ship,5/28/2022,5/20/2022,Quintana Clemmow,Maxy Shenfisch,2 Basil Alley
+112,Heating Oil,4917.0,1.83,8998.11,Philippines,Sweden,Tank Truck,3/24/2022,8/17/2022,Jayme Ryrie,Carmine Shankster,311 Gale Point
+113,Diesel,3321.32,4.96,16473.7472,Latvia,China,Pipeline,1/27/2022,1/7/2022,Aluin Olle,Osborne Tesyro,738 Hooker Drive
+114,Gasoline,384.72,3.71,1427.3112,Germany,Indonesia,Ship,3/8/2022,11/29/2022,Hercule Biddulph,Bernadette Zamora,6 Schlimgen Crossing
+115,Gasoline,9600.43,4.61,44257.9823,Nigeria,Indonesia,Ship,2/2/2022,12/2/2022,Randi Rickaby,Celinka Filyukov,2 Lien Avenue
+116,Diesel,1593.99,4.32,6886.0368,Indonesia,United Kingdom,Tank Truck,11/26/2022,6/9/2022,Olimpia Dowyer,Michaela Jurzyk,66 Continental Way
+117,Gasoline,1895.38,3.6,6823.368,France,Saudi Arabia,Tank Truck,1/25/2022,9/15/2022,Allison Priver,Porty Skottle,3413 Daystar Road
+118,Gasoline,5003.86,1.32,6605.0952,China,Cuba,Ship,6/9/2022,6/5/2022,Tiffy Spurr,Morry Mobley,27 Haas Alley
+119,Heating Oil,4493.96,2.17,9751.8932,China,Kazakhstan,Pipeline,1/8/2022,12/27/2022,Hayden Royce,Monti Drinkwater,386 Eagan Lane
+120,Diesel,5596.51,2.3,12871.973,China,China,Tank Truck,3/1/2022,6/28/2022,Phylis Lief,Alis Stopford,35 Caliangt Parkway
+121,Gasoline,5548.22,4.82,26742.4204,Croatia,Sweden,Ship,5/1/2022,1/10/2022,Sissie Francombe,Emmalynne Ivamy,99 Scoville Alley
+122,Gasoline,828.58,1.98,1640.5884,United States,Finland,Ship,1/28/2022,3/2/2022,Rickie Biasotti,Marsh Searles,373 Barnett Circle
+123,Heating Oil,1023.29,4.25,4348.9825,Ukraine,Netherlands,Tank Truck,3/23/2022,12/23/2022,Modesta Banaszczyk,Gwyn Kinrade,0 Steensland Place
+124,Gasoline,8603.09,2.12,18238.5508,United States,Belarus,Pipeline,4/20/2022,5/3/2022,Titus Bysshe,Fairleigh Millett,87800 Karstens Point
+125,Diesel,1068.28,4.99,5330.7172,Indonesia,Peru,Pipeline,2/14/2022,12/20/2022,Cassaundra Mechi,Bria Robker,546 Northland Avenue
+126,Diesel,4582.83,4.48,20531.0784,Indonesia,Malaysia,Ship,12/12/2022,9/30/2022,Dulcie Tippin,Sharline Sweetland,863 Northport Place
+127,Diesel,9097.76,3.35,30477.496,Canada,Finland,Tank Truck,5/12/2022,7/29/2022,Caryl Bramhill,Ethelbert Rielly,8 Little Fleur Trail
+128,Diesel,1689.23,4.72,7973.1656,Thailand,Czech Republic,Pipeline,4/18/2022,4/20/2022,Mycah Hourstan,Hardy Noorwood,585 Brown Plaza
+129,Diesel,2049.86,2.7,5534.622,Indonesia,Portugal,Tank Truck,4/15/2022,7/4/2022,Clyve Beevis,Damaris Markson,334 Granby Street
+130,Heating Oil,1573.23,1.79,2816.0817,Pakistan,Ukraine,Ship,3/6/2022,8/24/2022,Anette Tillyer,Caria Surgood,1 Autumn Leaf Circle
+131,Gasoline,3450.41,2.15,7418.3815,South Africa,China,Pipeline,10/21/2022,6/23/2022,Georgeanne Weblin,Sig Rudsdell,62 Nobel Plaza
+132,Heating Oil,2265.47,2.47,5595.7109,Poland,China,Tank Truck,1/25/2022,1/9/2022,Worthington Lillicrop,Corly Danbury,02 Dahle Park
+133,Diesel,5826.37,1.89,11011.8393,Indonesia,Mali,Pipeline,2/18/2022,1/16/2022,Edgar Robert,Charmion Gookey,0050 Arapahoe Parkway
+134,Heating Oil,698.2,1.38,963.516,Thailand,Czech Republic,Tank Truck,6/6/2022,3/14/2022,Clem Hampshaw,Ara Swash,0256 Oneill Hill
+135,Gasoline,4363.6,4.65,20290.74,Ukraine,Albania,Pipeline,6/13/2022,12/20/2022,Gardy Fumagallo,Graham Greatorex,0012 Kim Road
+136,Gasoline,3526.0,1.46,5147.96,Russia,Portugal,Tank Truck,12/1/2022,12/5/2022,Eustacia Brandrick,Morris Loade,00208 Morningstar Avenue
+137,Diesel,6714.45,1.32,8863.074,Peru,Azerbaijan,Tank Truck,8/18/2022,9/22/2022,Lolly Gissing,Darby Gremane,82 Iowa Crossing
+138,Gasoline,9803.17,1.58,15489.0086,China,Pakistan,Ship,12/21/2022,6/9/2022,Fairfax Biffen,Earle Scrimgeour,88 Di Loreto Trail
+139,Heating Oil,763.72,4.96,3788.0512,Pakistan,China,Pipeline,5/24/2022,10/23/2022,Katlin Escot,Barron Lantiffe,774 Vermont Parkway
+140,Heating Oil,9961.53,3.61,35961.1233,Italy,China,Ship,6/10/2022,12/10/2022,Buck Fludder,Cristy Rennolds,9 Westerfield Parkway
+141,Gasoline,4291.8,4.94,21201.492,El Salvador,China,Ship,2/10/2022,1/26/2022,Paddie Skerritt,Cher Dukelow,8 Oak Valley Terrace
+142,Diesel,9584.74,2.82,27028.9668,Tanzania,Yemen,Tank Truck,1/25/2022,5/9/2022,Hannie Allwood,Yvor Aymerich,14642 Fisk Way
+143,Gasoline,9445.93,1.62,15302.4066,Madagascar,Russia,Ship,11/8/2022,2/6/2022,Obie Franzonello,Delcina Nobes,25 Washington Crossing
+144,Gasoline,3996.63,1.24,4955.8212,Peru,Philippines,Ship,9/15/2022,9/27/2022,Roth Gonnard,Ichabod Kernley,69554 North Road
+145,Diesel,550.0,1.04,572.0,France,China,Ship,11/16/2022,12/9/2022,Jo Kincaid,Rahal Covell,63937 Nelson Crossing
+146,Diesel,7693.04,4.67,35926.4968,Montenegro,South Sudan,Pipeline,7/1/2022,10/21/2022,Nichole MacAdie,Emogene Balasin,20 Hauk Way
+147,Diesel,4076.72,4.91,20016.6952,China,China,Pipeline,6/28/2022,10/30/2022,Mari Sapey,Amalle Burchess,95504 Pearson Alley
+148,Diesel,6488.81,3.71,24073.4851,Indonesia,Poland,Pipeline,1/8/2022,4/14/2022,Mimi Congreave,Mozelle Southan,16195 Fordem Hill
+149,Diesel,8814.7,4.61,40635.767,Poland,China,Pipeline,5/12/2022,8/14/2022,Walden Cherry,Aldo Sullly,616 Jay Park
+150,Gasoline,8175.92,3.95,32294.884,Philippines,Philippines,Ship,6/27/2022,12/18/2022,Melisent Woodyeare,Dionysus Seven,2643 Union Point
+151,Diesel,9123.08,4.81,43882.0148,Australia,Indonesia,Pipeline,9/24/2022,10/19/2022,Rowena Sharvill,Guido Giacomasso,634 Kropf Road
+152,Heating Oil,1394.3,1.04,1450.072,Indonesia,Nigeria,Tank Truck,9/24/2022,3/2/2022,Julie Aberchirder,Karalee Pollendine,0728 Monument Circle
+153,Gasoline,7696.58,1.66,12776.3228,Russia,Azerbaijan,Tank Truck,1/3/2022,9/12/2022,Geoff Labbe,Karalynn Belchambers,9 Corben Street
+154,Diesel,3055.09,4.0,12220.36,China,Malaysia,Pipeline,11/15/2022,4/15/2022,Thom Snookes,Valaria Deeming,52 Hallows Crossing
+155,Diesel,9452.95,3.1,29304.145,Russia,Poland,Tank Truck,12/30/2022,1/1/2022,Victoria Kinnoch,Leticia Archley,643 Service Hill
+156,Heating Oil,2698.18,1.95,5261.451,Slovakia,Philippines,Pipeline,10/19/2022,1/20/2022,Ethelin Court,Rutter Carlisso,82 Reinke Point
+157,Diesel,9163.17,4.63,42425.4771,Israel,Costa Rica,Ship,1/9/2022,2/6/2022,Agosto Gethyn,Jakob Sayle,3 Coolidge Road
+158,Heating Oil,7051.1,3.15,22210.965,Poland,Reunion,Ship,9/8/2022,1/19/2022,Haven Spiniello,Merill Baseggio,09586 Vernon Road
+159,Heating Oil,8514.12,1.08,9195.2496,Portugal,China,Ship,5/15/2022,3/17/2022,Demott Mottram,Klarika Sawyer,083 Stoughton Crossing
+160,Heating Oil,7458.05,1.4,10441.27,Czech Republic,China,Ship,10/26/2022,3/17/2022,Sven Klossek,Bobbee Ziehm,1212 Melrose Street
+161,Gasoline,7899.75,3.71,29308.0725,Czech Republic,Indonesia,Tank Truck,3/31/2022,8/31/2022,Katherine Shawcroft,Patrice Rider,971 Warrior Drive
+162,Heating Oil,6599.85,2.24,14783.664,Mexico,Haiti,Pipeline,4/4/2022,11/8/2022,Dewey Bartosch,Bibby Dedney,6973 Steensland Junction
+163,Diesel,1953.2,4.27,8340.164,Mauritania,Cambodia,Pipeline,4/18/2022,3/30/2022,Shem McLaine,Saba Berresford,46818 Merrick Alley
+164,Heating Oil,4947.58,4.47,22115.6826,Mexico,Philippines,Pipeline,1/1/2022,1/18/2022,Bernarr Blockley,Ramsay Jose,560 Graceland Drive
+165,Gasoline,4685.73,2.35,11011.4655,China,Brazil,Pipeline,10/7/2022,6/28/2022,Ashely Gipp,Gayle Thireau,142 Forest Dale Center
+166,Diesel,3635.11,1.37,4980.1007,Indonesia,United States,Tank Truck,3/9/2022,5/6/2022,Moria Bradmore,Hal Mayer,80 Brentwood Street
+167,Heating Oil,9968.31,1.49,14852.7819,Zimbabwe,Indonesia,Pipeline,7/12/2022,1/6/2022,Bella Betchley,Teddy Bragginton,454 Cordelia Drive
+168,Heating Oil,6363.65,3.53,22463.6845,Portugal,France,Pipeline,4/24/2022,5/7/2022,Adriane Weatherhogg,Jessamine Sinkinson,19 Pine View Place
+169,Gasoline,3565.35,1.83,6524.5905,Senegal,Nigeria,Ship,6/10/2022,4/28/2022,Ami Piercey,Jerome McCowan,703 Sachs Center
+170,Heating Oil,5157.4,1.56,8045.544,Peru,Norway,Tank Truck,1/11/2022,12/17/2022,Cherice Duckham,Kailey Laurisch,3940 Old Gate Park
+171,Heating Oil,6365.01,3.56,22659.4356,Kosovo,Poland,Ship,2/10/2022,6/28/2022,Urban Filipson,Ringo Everest,2293 Forest Run Court
+172,Diesel,5877.1,4.96,29150.416,China,Poland,Pipeline,2/20/2022,11/14/2022,Jaimie Howat,Marris Brake,8328 Bay Hill
+173,Gasoline,7772.05,1.3,10103.665,Peru,Indonesia,Ship,1/28/2022,9/1/2022,Ortensia Pavey,Calli Pretley,6424 Lyons Court
+174,Gasoline,2017.57,3.63,7323.7791,China,Armenia,Pipeline,1/15/2022,5/21/2022,Stephine Belison,Jolynn Stuck,434 Gulseth Alley
+175,Heating Oil,8751.32,2.48,21703.2736,Philippines,Brazil,Pipeline,11/17/2022,6/4/2022,Sibley O'Henery,Marena Nafzger,60 Bunker Hill Hill
+176,Heating Oil,8598.38,1.4,12037.732,China,Barbados,Ship,2/20/2022,8/13/2022,Kennie Cunningham,Nevil Skrzynski,726 Vernon Street
+177,Heating Oil,2755.19,4.22,11626.9018,China,Uzbekistan,Tank Truck,6/19/2022,11/7/2022,Donni Purle,Shannon Gail,76220 Dayton Road
+178,Gasoline,6370.06,4.89,31149.5934,Vietnam,Mexico,Pipeline,6/8/2022,7/26/2022,Bette-ann Kolczynski,Sauveur Astbery,9 Burning Wood Drive
+179,Diesel,348.37,4.23,1473.6051,Sweden,Greece,Tank Truck,12/27/2022,6/13/2022,Adah Banton,Seymour Viggars,92224 Bellgrove Trail
+180,Diesel,5716.48,4.88,27896.4224,Ireland,Peru,Tank Truck,10/19/2022,6/1/2022,Rani Broadbere,Loni Landell,2 Ryan Parkway
+181,Gasoline,6086.18,4.75,28909.355,Indonesia,China,Pipeline,5/19/2022,3/23/2022,Danna Gowlett,Puff Beeres,191 Green Place
+182,Diesel,802.27,1.74,1395.9498,Comoros,Cameroon,Ship,5/1/2022,12/12/2022,Fayth Tourner,Annamarie Olekhov,3 Bayside Road
+183,Heating Oil,2778.45,4.41,12252.9645,Argentina,Ukraine,Pipeline,4/14/2022,2/20/2022,Craig Simkiss,Willette Swatland,8416 Blaine Street
+184,Gasoline,2152.18,4.66,10029.1588,Russia,Indonesia,Tank Truck,4/27/2022,3/5/2022,Andeee Jaslem,Augustine Bridden,161 Starling Terrace
+185,Gasoline,9555.39,3.55,33921.6345,Nepal,Poland,Pipeline,6/4/2022,7/25/2022,Vivyan Kirrens,Brittney Pettegree,7309 Iowa Lane
+186,Heating Oil,5197.39,2.87,14916.5093,Poland,Russia,Ship,12/28/2022,1/24/2022,Kiley Beamish,Hilde Murty,245 Rusk Crossing
+187,Diesel,8400.01,2.91,24444.0291,Poland,Czech Republic,Tank Truck,5/12/2022,5/7/2022,Clarita Birkwood,Gino Helis,2919 La Follette Lane
+188,Heating Oil,5287.24,1.16,6133.1984,China,Greece,Pipeline,12/30/2022,5/9/2022,Cozmo Woolstenholmes,Bess Coonihan,8 Sauthoff Lane
+189,Diesel,8187.83,3.94,32260.0502,Colombia,Peru,Pipeline,1/26/2022,12/28/2022,Seana Ivermee,Douglass Cremen,5 Burrows Terrace
+190,Heating Oil,3224.27,2.05,6609.7535,Russia,South Africa,Pipeline,9/14/2022,11/5/2022,Rich Niave,Eberhard Halson,3105 Buena Vista Court
+191,Gasoline,8056.64,4.43,35690.9152,Russia,Estonia,Ship,7/30/2022,1/3/2022,Crosby Weald,Terrill Ashplant,585 8th Hill
+192,Diesel,1669.17,2.71,4523.4507,Honduras,Philippines,Ship,8/18/2022,9/16/2022,Cozmo Fackney,Broderick Elton,10 Dottie Circle
+193,Diesel,5197.66,1.94,10083.4604,Ukraine,Poland,Pipeline,2/1/2022,11/25/2022,Kaila Pimmocke,Sonnie Sandeson,72116 7th Point
+194,Diesel,8516.34,2.67,22738.6278,Philippines,Indonesia,Pipeline,5/15/2022,3/16/2022,Abbey Tiler,Kerrin Grelka,8 Orin Street
+195,Heating Oil,8774.53,3.42,30008.8926,United States,Czech Republic,Pipeline,5/9/2022,6/21/2022,Ddene Duff,Charmane Mompesson,21 Westerfield Center
+196,Heating Oil,3369.16,2.42,8153.3672,China,China,Tank Truck,10/20/2022,9/28/2022,Vail Seabridge,Kirbie Zucker,86 Tomscot Avenue
+197,Heating Oil,4659.85,1.29,6011.2065,China,China,Ship,3/31/2022,1/31/2022,Juliette Nealand,Ernestus O'Shea,8 Kingsford Terrace
+198,Heating Oil,154.59,4.92,760.5828,United States,Portugal,Pipeline,1/6/2022,6/15/2022,Barron Priver,Beau Inchbald,4 Alpine Junction
+199,Diesel,1594.51,2.86,4560.2986,Honduras,Palestinian Territory,Tank Truck,8/7/2022,7/29/2022,Norbert Borsay,Gordy Filipychev,32 Commercial Street
+200,Diesel,3845.73,4.22,16228.9806,Honduras,Greece,Tank Truck,8/17/2022,2/28/2022,Lucine Haugh,Frasco California,961 Hoepker Street
+201,Heating Oil,2431.13,2.73,6636.9849,China,China,Ship,7/1/2022,10/4/2022,Shana Gibbings,Vitia Finan,905 Village Green Circle
+202,Heating Oil,6185.64,2.64,16330.0896,China,Iran,Pipeline,5/25/2022,3/17/2022,Augie Verbrugge,Ninetta Pidgeon,71 Westport Place
+203,Heating Oil,7209.84,1.02,7354.0368,United States,Philippines,Pipeline,7/9/2022,5/2/2022,Judas Chartman,Ceil Ralestone,86 Everett Alley
+204,Diesel,2409.32,2.5,6023.3,Mauritania,Honduras,Ship,6/19/2022,1/28/2022,Keriann Celier,Audie Stormes,5344 Pierstorff Way
+205,Gasoline,4759.99,4.48,21324.7552,China,Indonesia,Tank Truck,8/5/2022,5/2/2022,Ajay Piletic,Eloise McClenan,1351 Northfield Crossing
+206,Diesel,1058.23,3.84,4063.6032,Madagascar,Philippines,Ship,7/31/2022,7/28/2022,Beverlee Presser,Alicia Cleen,48 Cardinal Circle
+207,Gasoline,3060.93,1.54,4713.8322,China,Iran,Tank Truck,8/25/2022,2/26/2022,Nikolos Rosario,Eleanor Crumbie,3056 Manitowish Junction
+208,Diesel,6389.71,1.03,6581.4013,France,China,Tank Truck,8/15/2022,7/9/2022,Whitaker Spread,Babbie Rowet,27030 Cascade Junction
+209,Heating Oil,8317.74,4.13,34352.2662,Ivory Coast,China,Ship,12/30/2022,12/5/2022,Arny Thirtle,Stace Cortes,234 Kings Hill
+210,Heating Oil,3074.13,1.61,4949.3493,Indonesia,Indonesia,Pipeline,8/25/2022,5/17/2022,Jorrie Sola,Mischa Beedell,96 Heath Avenue
+211,Heating Oil,2833.13,3.67,10397.5871,Philippines,Russia,Ship,2/8/2022,3/4/2022,Munroe Rylett,Krissie Larter,08 Fallview Pass
+212,Gasoline,276.75,2.66,736.155,Philippines,China,Tank Truck,1/3/2022,2/25/2022,Gabbi Stapylton,Vladimir Battisson,5134 Oriole Court
+213,Gasoline,642.63,2.21,1420.2123,Panama,Guatemala,Pipeline,1/8/2022,10/20/2022,Phylys Cyseley,Chandra Fearby,62 Crest Line Junction
+214,Gasoline,3107.44,4.63,14387.4472,Niger,Portugal,Tank Truck,12/10/2022,10/16/2022,Zsazsa Housegoe,Bronny Mithon,790 Welch Drive
+215,Heating Oil,2869.5,1.56,4476.42,United States,China,Tank Truck,3/7/2022,2/3/2022,Shawn Blackborne,Moshe Darte,24445 Rowland Parkway
+216,Diesel,8255.44,1.82,15024.9008,China,China,Pipeline,2/21/2022,11/27/2022,Farah Wiz,Timoteo Radeliffe,19822 Schmedeman Avenue
+217,Gasoline,2046.49,1.46,2987.8754,China,China,Tank Truck,7/17/2022,5/8/2022,Levi Croux,Barth Steinson,9 Vidon Point
+218,Heating Oil,9544.12,2.14,20424.4168,Montenegro,Ukraine,Tank Truck,10/19/2022,12/1/2022,Paolo Wybourne,Aldwin McIlwrick,4 La Follette Lane
+219,Diesel,5414.1,2.13,11532.033,Philippines,Philippines,Tank Truck,2/14/2022,1/19/2022,Odella Conneau,Katrine Brandes,8587 Larry Place
+220,Gasoline,2434.68,2.29,5575.4172,Philippines,Russia,Pipeline,2/28/2022,7/22/2022,Eveleen Vsanelli,Quentin Lazenbury,27 Graedel Avenue
+221,Diesel,4867.18,2.11,10269.7498,Poland,Colombia,Tank Truck,9/5/2022,10/12/2022,Erna Gaskarth,Elva Ludmann,7 Saint Paul Park
+222,Diesel,847.74,2.59,2195.6466,Iran,China,Tank Truck,8/14/2022,12/28/2022,Richmound Ghelerdini,Dianemarie Kinner,8095 Schmedeman Terrace
+223,Gasoline,8341.7,3.55,29613.035,Thailand,Greece,Pipeline,1/2/2022,1/25/2022,Keary Mack,Rosalind Earp,561 Farmco Junction
+224,Gasoline,6690.29,2.04,13648.1916,Indonesia,Tanzania,Tank Truck,11/14/2022,9/13/2022,Sharla Rennebach,Zarah MacNeilly,6 Mcguire Park
+225,Gasoline,7619.95,1.51,11506.1245,Indonesia,United Kingdom,Tank Truck,2/2/2022,7/5/2022,Paul Reary,Terencio Garoghan,25 Melvin Place
+226,Diesel,2512.11,1.7,4270.587,Russia,Greece,Pipeline,8/3/2022,3/9/2022,Regan Vann,Gerda Mingay,1680 Rutledge Pass
+227,Heating Oil,197.96,4.59,908.6364,Russia,Guam,Pipeline,9/4/2022,5/11/2022,Kit Vashchenko,Yolanda Espie,5 Manitowish Junction
+228,Gasoline,5084.7,1.22,6203.334,Ireland,Iran,Tank Truck,1/15/2022,10/1/2022,Melloney Clemens,Shayne Laurence,72080 Eggendart Circle
+229,Gasoline,4022.62,3.89,15647.9918,China,Czech Republic,Pipeline,8/18/2022,11/7/2022,Alfred Morris,Humberto Leak,330 Sutteridge Court
+230,Diesel,5177.41,2.01,10406.5941,France,Jamaica,Tank Truck,12/17/2022,7/2/2022,Stanislas Dilkes,Alexei Andriss,02397 Oneill Pass
+231,Diesel,6253.4,4.78,29891.252,Peru,Mexico,Pipeline,6/15/2022,5/13/2022,Noll Flott,Candy McFater,36620 Hagan Trail
+232,Heating Oil,108.99,2.8,305.172,Portugal,Bosnia and Herzegovina,Pipeline,3/22/2022,11/1/2022,Lydon Clewer,Hertha Littlechild,4462 Bluejay Plaza
+233,Diesel,1167.73,1.63,1903.3999,Cuba,Peru,Tank Truck,4/14/2022,4/26/2022,Eadmund Peris,Max Kryska,44873 Petterle Lane
+234,Gasoline,9053.14,4.68,42368.6952,Norway,Thailand,Pipeline,11/9/2022,9/24/2022,Sasha Grishukov,Colly Gyer,54555 Linden Plaza
+235,Heating Oil,792.65,2.61,2068.8165,Philippines,China,Tank Truck,3/23/2022,6/16/2022,Donnajean Trollope,Dewey Blaasch,0 Farragut Point
+236,Heating Oil,7013.73,1.94,13606.6362,Sweden,Greece,Ship,2/20/2022,8/14/2022,Sorcha Rothwell,Moss Stallion,7 Graceland Place
+237,Heating Oil,7775.35,2.18,16950.263,Portugal,Indonesia,Pipeline,10/30/2022,7/13/2022,Ethan Estable,Francis Wakelam,2 Moland Junction
+238,Diesel,9401.44,2.51,23597.6144,Indonesia,Russia,Ship,3/7/2022,2/28/2022,Stephan McNiff,Rubin Lincoln,92 Fieldstone Circle
+239,Gasoline,1800.96,4.41,7942.2336,Russia,Czech Republic,Pipeline,9/13/2022,1/9/2022,Odilia Dring,Vanessa Whiteland,7133 4th Terrace
+240,Heating Oil,4034.54,1.29,5204.5566,Poland,Mongolia,Pipeline,10/28/2022,5/7/2022,Judon Paulet,Suzann Lerven,72 Ohio Center
+241,Diesel,3760.51,1.52,5715.9752,China,China,Tank Truck,5/19/2022,4/1/2022,Tyson Chanders,Abbe Chelnam,7 Buena Vista Park
+242,Gasoline,1895.47,4.39,8321.1133,China,Japan,Ship,3/17/2022,2/26/2022,Valaria Parysowna,Roxine Clover,07 Kinsman Street
+243,Diesel,872.19,1.7,1482.723,Indonesia,Sweden,Pipeline,4/4/2022,7/23/2022,Bengt Kleinschmidt,Rodie Placstone,76106 Kensington Crossing
+244,Heating Oil,4450.46,2.09,9301.4614,Indonesia,Brazil,Tank Truck,11/19/2022,6/30/2022,Teresita Maylin,Buckie Purchon,50131 Calypso Avenue
+245,Gasoline,8565.77,2.09,17902.4593,Uzbekistan,Yemen,Tank Truck,2/7/2022,12/2/2022,Denice Perrottet,Justus Squeers,3 Kropf Parkway
+246,Gasoline,567.97,4.04,2294.5988,China,South Africa,Ship,5/15/2022,12/8/2022,Guntar Jiracek,Frankie Eatock,048 Fairview Road
+247,Gasoline,6883.91,3.09,21271.2819,Mongolia,Canada,Ship,12/28/2022,3/25/2022,Minda Pharo,Dolli Garfoot,3 Toban Point
+248,Diesel,3070.56,2.16,6632.4096,Canada,Ukraine,Tank Truck,12/24/2022,11/24/2022,Victoria Simester,Natty Joannic,0 Cordelia Point
+249,Diesel,3168.31,4.58,14510.8598,Serbia,France,Pipeline,4/7/2022,6/5/2022,Steve Lathom,Trixi Rennels,3596 Village Plaza
+250,Diesel,3340.36,4.77,15933.5172,Russia,Poland,Ship,10/2/2022,7/28/2022,Alexi Backshaw,Atlante Pearsey,67 Arizona Park
+251,Diesel,5666.36,2.59,14675.8724,Greece,Honduras,Tank Truck,3/6/2022,4/17/2022,Terza Morrison,Stafani Alessandretti,3 Basil Way
+252,Heating Oil,7150.08,3.3,23595.264,Indonesia,Japan,Pipeline,5/13/2022,2/11/2022,Eloise Pisculli,Alessandra Arnholz,9401 Florence Avenue
+253,Gasoline,753.88,4.38,3301.9944,China,Russia,Ship,4/6/2022,7/6/2022,Raven Filliskirk,Maximo Rodolfi,9071 Center Circle
+254,Diesel,7806.86,4.95,38643.957,Poland,Trinidad and Tobago,Pipeline,7/26/2022,5/12/2022,Julita Quarles,Marc Bertram,367 Miller Plaza
+255,Diesel,8559.77,4.45,38090.9765,Indonesia,China,Tank Truck,6/2/2022,7/8/2022,Evan Elcy,Rafa Haggie,5 Pearson Terrace
+256,Heating Oil,8016.89,4.04,32388.2356,Portugal,Malaysia,Ship,3/3/2022,3/11/2022,Warren Meeks,Marja Corps,198 Anzinger Terrace
+257,Diesel,7019.34,3.09,21689.7606,Italy,China,Ship,12/22/2022,7/5/2022,Tye Lindenberg,Bay Durdle,81 Jay Crossing
+258,Heating Oil,2576.5,2.71,6982.315,Chile,Sri Lanka,Ship,1/20/2022,6/21/2022,Adrien Twiggs,Bonita Kennedy,63 Fairfield Drive
+259,Heating Oil,6542.84,3.12,20413.6608,Somalia,Brazil,Ship,9/28/2022,6/22/2022,Norina Benninck,Clo McCook,88853 Dennis Plaza
+260,Heating Oil,4566.48,1.04,4749.1392,Sweden,Finland,Ship,4/8/2022,9/3/2022,Cyndia Greenier,Delcine Mahomet,44 Browning Road
+261,Diesel,4445.88,4.32,19206.2016,Tanzania,Indonesia,Tank Truck,7/21/2022,7/14/2022,Saunder Bode,Everard Muskett,52917 Bashford Junction
+262,Heating Oil,6313.97,2.88,18184.2336,Indonesia,Nicaragua,Ship,2/7/2022,3/28/2022,Heidi Barehead,Rachele Pestridge,7 Ruskin Point
+263,Diesel,7173.85,1.18,8465.143,Philippines,Philippines,Tank Truck,2/21/2022,8/12/2022,Teddie Wallsam,Desiree Reedick,6 Mandrake Avenue
+264,Diesel,6286.01,1.85,11629.1185,Nigeria,China,Tank Truck,7/3/2022,12/2/2022,Mozelle Vereker,Sephira Chate,57306 Johnson Center
+265,Diesel,6514.91,2.71,17655.4061,Guatemala,Thailand,Tank Truck,3/12/2022,8/12/2022,Beatrice Commucci,Jilleen Monini,7377 Brown Drive
+266,Diesel,8275.82,3.97,32855.0054,Uruguay,China,Tank Truck,7/14/2022,9/10/2022,Angelica Gossart,Virgie Khadir,43 Bunker Hill Avenue
+267,Diesel,1211.75,3.9,4725.825,Indonesia,Indonesia,Tank Truck,3/11/2022,5/31/2022,Ivor Backe,Rudyard Favela,03939 Hansons Road
+268,Diesel,2783.65,2.31,6430.2315,Indonesia,Russia,Ship,6/20/2022,12/5/2022,Bonnie Kopman,Giuseppe McPhillips,653 Duke Point
+269,Gasoline,6803.38,3.69,25104.4722,China,Poland,Pipeline,1/27/2022,11/11/2022,Caryn Fleote,Orson Canet,08334 Bartillon Point
+270,Diesel,989.49,3.96,3918.3804,Portugal,China,Ship,6/12/2022,9/1/2022,Veradis Ockwell,Thane Seamarke,60897 Heath Hill
+271,Heating Oil,6059.74,1.43,8665.4282,Bulgaria,Russia,Pipeline,7/5/2022,7/8/2022,Vanya Cheng,Antone Pearsall,8 Armistice Hill
+272,Gasoline,2569.27,2.09,5369.7743,Sweden,Portugal,Ship,4/8/2022,8/26/2022,Saul Vaneschi,Dicky Pocock,14 Lillian Hill
+273,Heating Oil,5505.5,4.83,26591.565,Greece,Indonesia,Tank Truck,11/16/2022,4/14/2022,Ashil Surman,Estel Lawley,2663 Evergreen Drive
+274,Heating Oil,6756.79,1.68,11351.4072,Dominican Republic,Colombia,Pipeline,5/9/2022,9/7/2022,Odey Wehner,Dode Bru,59575 Washington Lane
+275,Diesel,8531.21,2.26,19280.5346,Canada,Japan,Tank Truck,4/11/2022,5/27/2022,Ezri Merfin,Laure Mountlow,786 Summit Point
+276,Gasoline,6083.12,2.15,13078.708,United States,Saudi Arabia,Tank Truck,2/23/2022,7/19/2022,Benedetto Perkin,Merline Rash,885 Victoria Alley
+277,Heating Oil,3626.45,1.63,5911.1135,Indonesia,Russia,Tank Truck,3/26/2022,10/19/2022,Odilia Phelit,Tarra Wildes,1 Namekagon Parkway
+278,Heating Oil,7414.5,2.61,19351.845,Sweden,China,Pipeline,2/17/2022,11/27/2022,Shaylynn Ragate,Murielle Sworder,80 Tennyson Plaza
+279,Diesel,3991.23,4.51,18000.4473,Norway,China,Ship,7/24/2022,6/9/2022,Fidel Dunseath,Gilbertina Warke,1156 Pennsylvania Lane
+280,Gasoline,465.26,3.5,1628.41,Canada,Democratic Republic of the Congo,Ship,6/24/2022,11/23/2022,Hortensia Blum,Brnaby Freda,9 Myrtle Point
+281,Diesel,142.97,1.63,233.0411,China,Poland,Ship,10/30/2022,5/4/2022,Mildred Threlkeld,Wilmette Gauvin,5 Katie Pass
+282,Gasoline,516.81,1.83,945.7623,China,Indonesia,Ship,5/29/2022,3/16/2022,Dirk O' Neligan,Arlie Schoenleiter,6 Red Cloud Court
+283,Heating Oil,5561.91,2.58,14349.7278,China,China,Ship,2/9/2022,1/12/2022,Keriann Reicharz,Robbert Twine,2118 Pankratz Center
+284,Diesel,5960.88,3.27,19492.0776,China,Ukraine,Pipeline,3/6/2022,10/11/2022,Wain Denson,Sally Ickeringill,0312 Bashford Junction
+285,Heating Oil,5903.34,3.06,18064.2204,Indonesia,Peru,Tank Truck,6/14/2022,1/27/2022,Mortie Liccardi,Burgess Mephan,825 Dakota Park
+286,Heating Oil,3069.59,1.36,4174.6424,Cuba,China,Tank Truck,2/2/2022,10/9/2022,Percy Whitters,Benoit Chalfant,935 Hintze Plaza
+287,Heating Oil,6867.09,1.81,12429.4329,Greece,Poland,Ship,4/3/2022,11/18/2022,Donal Petyankin,Alejandra Lythgoe,9889 Becker Alley
+288,Heating Oil,9558.66,4.37,41771.3442,Indonesia,Argentina,Pipeline,1/26/2022,6/17/2022,Biddy De Mattia,Donovan Staggs,688 Anhalt Junction
+289,Diesel,9947.37,1.83,18203.6871,Philippines,Brazil,Tank Truck,11/10/2022,12/12/2022,Tomasine Trenoweth,Batsheva Abrams,320 Lawn Court
+290,Diesel,5141.72,4.44,22829.2368,Philippines,Russia,Pipeline,11/13/2022,1/12/2022,Abbi Jahan,Atlanta Triplet,7445 Lakewood Gardens Plaza
+291,Diesel,2104.18,4.88,10268.3984,China,Czech Republic,Tank Truck,5/5/2022,4/15/2022,Pincus Albutt,Skelly Teanby,21 Prairie Rose Terrace
+292,Gasoline,7286.14,1.04,7577.5856,France,Philippines,Ship,4/18/2022,10/11/2022,Giraldo Aries,Judy Pember,28527 Jenna Alley
+293,Heating Oil,5974.68,1.21,7229.3628,Syria,Ethiopia,Pipeline,4/28/2022,8/19/2022,Andreas Hatherall,Darb Spray,6 Everett Lane
+294,Gasoline,3483.33,1.46,5085.6618,Russia,Greece,Tank Truck,3/13/2022,11/30/2022,Curcio Studeart,Oliy Lovie,0956 Melvin Pass
+295,Heating Oil,5905.45,1.47,8681.0115,China,Ukraine,Pipeline,8/2/2022,2/8/2022,Ody Wilkenson,Keefer Flanaghan,13193 Fuller Drive
+296,Heating Oil,9922.52,1.21,12006.2492,South Korea,Benin,Tank Truck,12/26/2022,6/8/2022,Yanaton Tice,Natividad Tucknott,2 Chive Park
+297,Gasoline,6068.32,1.49,9041.7968,China,Sweden,Ship,6/23/2022,7/14/2022,Rosy Ivamy,Dermot Izaac,66538 Oak Trail
+298,Heating Oil,2974.68,4.43,13177.8324,China,Papua New Guinea,Ship,4/15/2022,1/11/2022,Sadie Garrettson,Saw Port,4426 Norway Maple Avenue
+299,Diesel,1185.21,4.82,5712.7122,United States,Lithuania,Pipeline,6/13/2022,7/11/2022,Shena Bonar,Mandie Aspin,1832 Donald Center
+300,Gasoline,1996.81,1.16,2316.2996,Sweden,Philippines,Pipeline,2/10/2022,5/21/2022,Ermanno Mordue,Louie Kienle,56 Cody Circle
+301,Diesel,884.0,1.65,1458.6,Thailand,Czech Republic,Tank Truck,7/8/2022,7/31/2022,Alika Filipic,Desiree Wittleton,19 Magdeline Terrace
+302,Gasoline,5524.03,3.99,22040.8797,Philippines,Russia,Tank Truck,5/21/2022,11/30/2022,Heall Redpath,Carey Le Marquand,84 Browning Drive
+303,Heating Oil,1076.2,1.38,1485.156,Latvia,Poland,Tank Truck,5/29/2022,5/24/2022,Nananne Sargeaunt,Delmore Bleue,5 Huxley Way
+304,Heating Oil,4285.64,3.03,12985.4892,Russia,Indonesia,Ship,7/17/2022,10/6/2022,Moshe Elcombe,Moselle Happs,79930 Rowland Avenue
+305,Gasoline,988.53,4.37,4319.8761,Portugal,France,Ship,7/6/2022,4/11/2022,Milli Southall,Trudy Devonish,259 Quincy Drive
+306,Heating Oil,2657.95,2.45,6511.9775,China,Malaysia,Pipeline,6/17/2022,9/16/2022,Angelia Assante,Brita Bramwich,414 Holmberg Pass
+307,Diesel,5404.63,1.55,8377.1765,China,Indonesia,Tank Truck,6/11/2022,5/1/2022,Bartlett Lowndsborough,Marty McBlain,61 Mendota Trail
+308,Gasoline,4555.3,4.83,22002.099,China,Qatar,Pipeline,7/24/2022,7/11/2022,Rourke Marham,Aliza Lenard,534 Vidon Pass
+309,Gasoline,3124.13,1.39,4342.5407,Portugal,Malta,Pipeline,11/12/2022,8/22/2022,Vidovik Ianiello,Piper Thickin,14548 Schlimgen Pass
+310,Heating Oil,3353.21,1.88,6304.0348,Slovenia,Bulgaria,Tank Truck,6/26/2022,7/11/2022,Maggee Lydden,Marlow Alderwick,832 Golden Leaf Point
+311,Diesel,4686.61,2.99,14012.9639,Indonesia,Indonesia,Pipeline,9/20/2022,8/7/2022,Adorne Westcot,Bernie Pero,32658 Stang Terrace
+312,Heating Oil,6398.38,1.26,8061.9588,Indonesia,Philippines,Tank Truck,10/20/2022,3/23/2022,Glenden Fairs,Minnaminnie Brookwell,17 Reindahl Trail
+313,Gasoline,3061.81,4.59,14053.7079,Russia,Indonesia,Pipeline,8/17/2022,9/5/2022,Joby Hould,Glennie Filoniere,856 Monica Pass
+314,Diesel,2660.96,1.74,4630.0704,China,China,Ship,11/22/2022,6/18/2022,Forrest McCue,Nilson Mathy,4 Mallard Terrace
+315,Heating Oil,6579.47,1.36,8948.0792,Norway,Kenya,Pipeline,10/27/2022,7/16/2022,Leanna Griffey,Mohammed Ties,3 Fallview Avenue
+316,Diesel,6872.71,4.07,27971.9297,Indonesia,China,Pipeline,2/12/2022,9/8/2022,Velma Klimmek,Biddy Andreazzi,4 Jay Crossing
+317,Diesel,5445.48,4.85,26410.578,Russia,China,Ship,7/22/2022,7/19/2022,Fidelia Sertin,Wilt Dimitrijevic,686 Marcy Lane
+318,Gasoline,5311.76,1.21,6427.2296,Canada,Poland,Ship,8/15/2022,3/9/2022,Gasper Roskruge,Seymour Crossfeld,62462 Clarendon Court
+319,Heating Oil,7410.34,1.27,9411.1318,Colombia,Serbia,Pipeline,1/1/2022,6/26/2022,Corbie Patters,Craggy Ganter,423 Stoughton Court
+320,Diesel,9935.74,2.01,19970.8374,Mexico,Armenia,Ship,1/5/2022,4/19/2022,Olympie Drillingcourt,Eadmund Coupland,25125 4th Center
+321,Diesel,7040.45,1.24,8730.158,Brazil,China,Pipeline,12/4/2022,8/5/2022,Trudie Habens,Peggi Orgill,909 Packers Terrace
+322,Gasoline,4735.56,4.76,22541.2656,New Zealand,Portugal,Tank Truck,12/20/2022,10/26/2022,Dwain Largan,Ravid Heinel,69 Grim Crossing
+323,Diesel,6922.94,3.21,22222.6374,Nicaragua,Philippines,Tank Truck,1/11/2022,1/17/2022,Town Schwandermann,Teddy De Dei,7947 Dayton Hill
+324,Heating Oil,5810.9,2.52,14643.468,China,Russia,Pipeline,2/3/2022,6/17/2022,Mile Espley,Perri Pietranek,0205 Acker Center
+325,Gasoline,3781.91,1.05,3971.0055,Portugal,Afghanistan,Ship,9/1/2022,3/11/2022,Jocelyne Curlis,Lind Huddle,3089 Tomscot Parkway
+326,Diesel,7600.94,3.15,23942.961,Indonesia,Nigeria,Tank Truck,1/12/2022,10/16/2022,Conant Yard,Gustaf Verheyden,075 Bonner Road
+327,Gasoline,9997.92,3.99,39891.7008,Canada,Indonesia,Pipeline,1/30/2022,3/18/2022,Romonda Thumann,Tommy Oldridge,6 4th Way
+328,Diesel,1255.11,3.34,4192.0674,Yemen,Philippines,Tank Truck,2/28/2022,12/20/2022,Bernadine Ingrem,Hendrik Corringham,5275 Manitowish Court
+329,Diesel,3029.86,1.61,4878.0746,Kazakhstan,Bolivia,Ship,11/12/2022,4/29/2022,Darrelle Devoy,Robinett Moreing,34 Sloan Crossing
+330,Gasoline,8982.42,4.51,40510.7142,China,South Africa,Tank Truck,7/26/2022,10/30/2022,Cristobal Dilworth,Sterling Arcase,85621 Hanson Center
+331,Gasoline,871.72,3.74,3260.2328,Finland,Netherlands,Pipeline,9/6/2022,12/8/2022,Lemmie Simek,Whitaker Antonietti,5975 Ronald Regan Way
+332,Gasoline,1706.03,2.81,4793.9443,Syria,China,Tank Truck,12/28/2022,10/12/2022,Faulkner Siward,Tailor Sharpin,56446 Columbus Junction
+333,Diesel,1682.12,1.67,2809.1404,China,Portugal,Tank Truck,9/24/2022,12/14/2022,Aluino Lampe,Verla Whiteoak,8 Jenifer Point
+334,Heating Oil,8376.58,1.67,13988.8886,Japan,China,Pipeline,10/28/2022,6/29/2022,Corly Casajuana,Zorina Tradewell,97 Commercial Alley
+335,Gasoline,7081.65,1.85,13101.0525,France,China,Tank Truck,12/5/2022,9/13/2022,Kaitlyn O'Hogertie,Alvina Ruppert,13 Lindbergh Terrace
+336,Diesel,7583.85,2.28,17291.178,China,Russia,Pipeline,10/27/2022,3/18/2022,Siobhan L'Hommeau,Britt Chasney,31576 Lindbergh Trail
+337,Gasoline,2312.79,3.51,8117.8929,China,Indonesia,Ship,12/30/2022,4/25/2022,Towney Ollerhead,Ellissa Quincey,5 Northwestern Street
+338,Gasoline,9873.22,3.92,38703.0224,Canada,Curacao,Pipeline,1/5/2022,6/25/2022,Moises Hearthfield,Daniel Wernham,6 Ruskin Terrace
+339,Diesel,436.56,1.68,733.4208,Indonesia,Sweden,Ship,8/26/2022,3/16/2022,Gayleen Pantin,Nancey Duggen,0975 Susan Crossing
+340,Gasoline,6282.48,1.61,10114.7928,France,Tanzania,Pipeline,10/30/2022,1/2/2022,Gracia Kief,Heddie Colvine,9825 Packers Circle
+341,Gasoline,6548.67,1.76,11525.6592,Portugal,Ukraine,Tank Truck,8/21/2022,2/6/2022,Katharina Kupke,Pyotr Yallowley,6963 Tomscot Pass
+342,Gasoline,1902.17,2.22,4222.8174,Poland,Macedonia,Pipeline,9/28/2022,8/26/2022,Jorie Redley,Colette Sizeland,44 Onsgard Pass
+343,Heating Oil,439.5,2.14,940.53,Indonesia,China,Tank Truck,8/27/2022,11/18/2022,Yvette Rozzier,Deck Wellesley,2901 Sutteridge Avenue
+344,Heating Oil,4720.92,3.21,15154.1532,Macedonia,Mongolia,Pipeline,6/15/2022,12/24/2022,Myrle Thrussell,Giacinta Emanulsson,658 Declaration Court
+345,Gasoline,1820.19,4.46,8118.0474,Brazil,Czech Republic,Pipeline,10/1/2022,7/31/2022,Kristien D'Oyley,Ladonna Heakey,6 Thackeray Street
+346,Heating Oil,945.86,2.25,2128.185,Portugal,China,Pipeline,1/25/2022,4/7/2022,Anabel Kenworthey,Bjorn Fitzpatrick,8 Onsgard Road
+347,Heating Oil,4477.05,2.27,10162.9035,Argentina,Ireland,Tank Truck,10/31/2022,2/26/2022,Oliver Geerits,Kellsie Bullon,4 Nancy Trail
+348,Gasoline,8911.89,4.86,43311.7854,Morocco,China,Ship,12/4/2022,4/22/2022,Feodora Vanyard,Eldon Attril,358 Becker Alley
+349,Gasoline,5902.84,3.19,18830.0596,Indonesia,China,Pipeline,1/9/2022,2/24/2022,Shep Sherar,Sterling Lattin,9895 Hoard Center
+350,Diesel,6734.09,3.19,21481.7471,Azerbaijan,Portugal,Ship,6/20/2022,5/16/2022,Jermaine Donahue,Renault Chong,3097 Sachs Road
+351,Heating Oil,7263.24,1.59,11548.5516,United States,Russia,Tank Truck,10/28/2022,4/27/2022,Hurleigh MacDougall,Pegeen Fowls,1856 4th Parkway
+352,Heating Oil,4750.09,3.06,14535.2754,Russia,Russia,Pipeline,5/16/2022,12/25/2022,Magdalene Braunston,Bailey Schimank,2395 Fair Oaks Junction
+353,Gasoline,1585.02,3.82,6054.7764,Colombia,Russia,Tank Truck,10/8/2022,3/9/2022,Marnia Beteriss,Jemmie Locks,27 Mesta Crossing
+354,Diesel,4540.05,4.75,21565.2375,China,Peru,Pipeline,2/11/2022,3/18/2022,Loralee Northern,Brady Goodisson,9 Esch Center
+355,Diesel,4914.37,4.34,21328.3658,South Korea,Croatia,Tank Truck,8/21/2022,4/20/2022,Lester Huccaby,Rad Kleis,40 Barnett Hill
+356,Diesel,8460.44,2.02,17090.0888,South Africa,Serbia,Ship,9/20/2022,2/22/2022,Ermengarde Killock,Benji Butts,01 Moulton Parkway
+357,Diesel,6707.88,4.2,28173.096,Malta,Poland,Ship,8/31/2022,1/19/2022,Eliot Sinnat,Adelbert Sorey,82648 Meadow Ridge Place
+358,Diesel,4849.31,2.32,11250.3992,United States,Peru,Ship,8/28/2022,5/31/2022,Amabelle Kalkhoven,Chance Giannoni,0199 Brentwood Lane
+359,Gasoline,1865.14,4.78,8915.3692,Bangladesh,Thailand,Ship,9/12/2022,3/22/2022,Roarke Eteen,Alasdair Cattermole,7640 Boyd Parkway
+360,Gasoline,4600.88,4.49,20657.9512,Serbia,France,Tank Truck,8/7/2022,10/30/2022,Milka Robez,Marje Bryers,6 Forster Lane
+361,Gasoline,4974.81,4.9,24376.569,China,Portugal,Pipeline,12/18/2022,1/20/2022,Erich Siviour,Innis Wybern,62954 Oak Alley
+362,Heating Oil,4359.64,2.7,11771.028,China,China,Ship,11/11/2022,8/4/2022,Carrol Whiley,Chicky Basketter,142 Sutteridge Junction
+363,Diesel,9126.98,1.05,9583.329,Russia,Nigeria,Pipeline,8/27/2022,4/6/2022,Gillan Rollinshaw,Chrisse Fransoni,78 7th Plaza
+364,Diesel,5755.7,1.1,6331.27,Ukraine,Mali,Ship,5/16/2022,7/26/2022,Genovera Elsy,Emmey Rudkin,4657 Luster Center
+365,Heating Oil,5416.7,1.75,9479.225,Brazil,Portugal,Pipeline,8/19/2022,10/27/2022,Fina Yakovich,Spencer Wynch,4 Dorton Point
+366,Gasoline,5088.56,4.39,22338.7784,Guatemala,Brazil,Tank Truck,6/3/2022,3/15/2022,Noam Petrusch,Marleen Cosyns,23 Thompson Pass
+367,Gasoline,1249.45,3.34,4173.163,Iran,Albania,Pipeline,9/20/2022,12/15/2022,Geri Blundin,Rosamund Benitti,2605 Bonner Plaza
+368,Heating Oil,2487.31,4.05,10073.6055,China,China,Ship,8/1/2022,2/19/2022,Meggi Swadlen,Flossy Barthram,83324 Clove Hill
+369,Heating Oil,1045.04,2.26,2361.7904,Greece,Portugal,Tank Truck,10/19/2022,8/30/2022,Dudley Kyd,Guinevere Carlisle,8 Golf View Circle
+370,Diesel,4981.17,1.13,5628.7221,Sweden,Bahamas,Ship,5/11/2022,6/17/2022,Clea Pace,Lucias McClaughlin,520 Quincy Circle
+371,Heating Oil,6397.17,1.53,9787.6701,Poland,Slovenia,Pipeline,3/2/2022,8/24/2022,Trumann Biskupiak,Shirlee Schulze,732 Moose Street
+372,Diesel,2713.28,1.03,2794.6784,China,United States,Tank Truck,9/20/2022,3/5/2022,Netta Gaylor,Rosanne Rawsthorne,34 Bunker Hill Drive
+373,Diesel,6787.29,3.3,22398.057,Guatemala,Russia,Ship,4/28/2022,11/8/2022,Cathie Sushams,Richardo Caso,17882 Anthes Crossing
+374,Gasoline,2463.6,3.3,8129.88,Azerbaijan,Canada,Ship,8/23/2022,4/6/2022,Brittan Christensen,Dore Vinker,2 Westport Place
+375,Diesel,5426.47,1.68,9116.4696,Uzbekistan,China,Tank Truck,7/21/2022,8/10/2022,Gordy Huzzey,Bertrand Dowgill,95095 American Ash Pass
+376,Gasoline,2922.84,2.62,7657.8408,Sweden,Brazil,Pipeline,12/28/2022,1/26/2022,Ann-marie Vise,Jake Clawley,39127 Spohn Drive
+377,Diesel,9086.83,4.93,44798.0719,Sweden,Argentina,Ship,1/5/2022,4/23/2022,Shandie Coldbathe,Neilla Awdry,2436 Hollow Ridge Place
+378,Diesel,9479.04,3.86,36589.0944,United States,China,Tank Truck,3/24/2022,12/8/2022,Nessy Kyffin,Jordan Troyes,4863 Golf View Junction
+379,Diesel,8438.17,4.08,34427.7336,China,Sweden,Tank Truck,5/30/2022,4/4/2022,Haroun Fairn,Philomena Matovic,9194 6th Drive
+380,Gasoline,9770.27,2.74,26770.5398,Greece,Bolivia,Pipeline,9/20/2022,12/20/2022,Kessiah Theobald,Ermentrude Drivers,06913 Esch Parkway
+381,Heating Oil,1734.81,1.55,2688.9555,Uzbekistan,Portugal,Tank Truck,11/22/2022,10/18/2022,Horace Rispin,Heinrick Wellesley,82 Sachtjen Crossing
+382,Heating Oil,1741.89,3.93,6845.6277,Thailand,Indonesia,Pipeline,6/13/2022,8/2/2022,Emelda Kittiman,Brett Sharples,643 Harper Trail
+383,Heating Oil,9026.32,2.95,26627.644,Russia,Philippines,Ship,4/15/2022,9/15/2022,Aimee Bown,Lancelot Egarr,723 Del Mar Park
+384,Gasoline,2498.85,1.18,2948.643,Ukraine,Haiti,Ship,3/20/2022,2/5/2022,Mohandis Czadla,Mikaela Michieli,976 Namekagon Point
+385,Heating Oil,1273.68,2.48,3158.7264,China,China,Tank Truck,9/12/2022,11/9/2022,Peirce Scutt,Wynnie Lightewood,0136 Anderson Alley
+386,Gasoline,7083.52,3.71,26279.8592,Kazakhstan,Philippines,Tank Truck,5/31/2022,12/29/2022,Cathe Ruperti,Klarrisa Reedick,6295 Fieldstone Way
+387,Heating Oil,6382.43,1.81,11552.1983,Belarus,Nicaragua,Pipeline,2/17/2022,1/27/2022,Dillie Crean,Pietra Laskey,0 Elka Lane
+388,Heating Oil,7768.78,4.16,32318.1248,China,United States,Ship,8/15/2022,11/13/2022,Libbi Stain,Stefa Flucker,15147 Vermont Center
+389,Gasoline,802.33,4.19,3361.7627,Czech Republic,Russia,Ship,2/5/2022,6/9/2022,Roselin Ottewell,Sonni Riddock,731 Di Loreto Alley
+390,Diesel,7634.15,2.84,21680.986,Portugal,Indonesia,Ship,2/4/2022,5/18/2022,Jennilee Maken,Taffy Paolotto,8 Steensland Terrace
+391,Gasoline,8878.19,4.33,38442.5627,Sweden,China,Tank Truck,11/6/2022,9/3/2022,Rozina Myatt,Marla Guidone,7 Commercial Place
+392,Heating Oil,3871.74,4.94,19126.3956,Russia,Dominican Republic,Ship,4/13/2022,10/30/2022,Tyrus Milburne,Jemima Finlan,9970 8th Plaza
+393,Gasoline,5113.17,4.8,24543.216,Indonesia,Yemen,Ship,2/8/2022,4/4/2022,Cathi Cagan,Carree Jencey,0 Bartillon Circle
+394,Heating Oil,6809.21,2.06,14026.9726,Spain,Indonesia,Ship,1/5/2022,7/21/2022,Jake Tour,Alyda Hlavac,7504 Lien Plaza
+395,Diesel,4410.76,1.69,7454.1844,Portugal,China,Pipeline,5/18/2022,8/5/2022,Rubie Parlour,Donia de la Valette Parisot,309 Hauk Junction
+396,Gasoline,9760.29,1.3,12688.377,Canada,Canada,Tank Truck,12/30/2022,10/20/2022,Archambault Rodrig,Gordon Paradyce,5016 Tennessee Terrace
+397,Diesel,8608.09,2.07,17818.7463,Russia,Bulgaria,Pipeline,11/25/2022,5/24/2022,Adriaens Nary,Donnie Ishchenko,9 Green Park
+398,Diesel,2325.21,3.41,7928.9661,France,Botswana,Tank Truck,8/11/2022,3/23/2022,Kale Pentland,Dulciana Elcoat,7 Lighthouse Bay Crossing
+399,Heating Oil,2476.4,1.16,2872.624,China,China,Tank Truck,5/16/2022,7/28/2022,John Roocroft,Erin Pumfrett,226 Lakeland Court
+400,Diesel,300.99,4.17,1255.1283,Philippines,Cameroon,Ship,6/15/2022,8/18/2022,Bonni Bayman,Gleda Hazard,89450 Jay Terrace
+401,Heating Oil,7126.19,2.87,20452.1653,Kazakhstan,Indonesia,Tank Truck,5/12/2022,7/6/2022,Heidie Saffle,Vidovic Bausor,9961 Thompson Junction
+402,Gasoline,1330.3,3.12,4150.536,United States,Philippines,Pipeline,2/8/2022,5/1/2022,Jamaal Keesman,Vergil Hairsnape,925 Arkansas Plaza
+403,Gasoline,5364.87,2.32,12446.4984,Poland,Indonesia,Pipeline,11/22/2022,12/28/2022,Bobbie Ayerst,Brody Lardnar,35256 3rd Plaza
+404,Diesel,2892.27,4.74,13709.3598,China,Poland,Tank Truck,2/5/2022,8/6/2022,Ottilie Hunston,Branden Munks,9 Harbort Plaza
+405,Gasoline,8557.85,3.73,31920.7805,China,Colombia,Pipeline,9/8/2022,4/29/2022,Sisile Carvil,Reuben Learmonth,00965 Jenna Road
+406,Gasoline,4293.37,3.96,17001.7452,Russia,China,Tank Truck,7/5/2022,2/21/2022,Catie Talman,Rena Aylwin,8445 Manitowish Trail
+407,Heating Oil,1061.14,1.02,1082.3628,Indonesia,France,Tank Truck,5/26/2022,2/2/2022,Stacia Surmon,Alena Langlais,4 Loomis Circle
+408,Diesel,4688.84,3.93,18427.1412,China,United States,Tank Truck,9/18/2022,7/20/2022,Tallou Iacomo,Bronson Hardage,3184 Sage Road
+409,Heating Oil,2629.37,1.37,3602.2369,Indonesia,Kenya,Ship,11/21/2022,12/2/2022,Charlean Norcop,Fleur Logue,6 Myrtle Park
+410,Heating Oil,7824.12,3.18,24880.7016,Venezuela,Mexico,Tank Truck,6/26/2022,5/30/2022,Bondon Reace,Rosemarie Doswell,22389 Stone Corner Center
+411,Diesel,1669.76,2.75,4591.84,Ireland,China,Tank Truck,7/15/2022,10/26/2022,Cris Serrell,Mendel Lathy,1857 Crownhardt Street
+412,Heating Oil,9053.72,4.57,41375.5004,Japan,Peru,Ship,12/6/2022,8/21/2022,Lisle Skeldinge,Anni Jonke,60441 Ilene Court
+413,Gasoline,4870.96,4.93,24013.8328,Indonesia,Brazil,Tank Truck,1/23/2022,10/24/2022,Nat Boyack,Mohandis Tarr,206 Blackbird Lane
+414,Diesel,1643.0,4.8,7886.4,China,Brazil,Ship,3/26/2022,11/26/2022,Ferdy Wolver,Onfroi Ren,61186 Dahle Avenue
+415,Heating Oil,5934.74,1.26,7477.7724,Gabon,China,Tank Truck,10/11/2022,2/11/2022,Wye Clay,Kylie McKeurton,9233 Kinsman Lane
+416,Diesel,6115.76,3.75,22934.1,Albania,Syria,Pipeline,2/2/2022,3/29/2022,Gordy Grzeszczyk,Kelcie Kun,67 Johnson Lane
+417,Heating Oil,4944.13,4.92,24325.1196,Afghanistan,Chile,Ship,3/26/2022,11/6/2022,Rivi Zanelli,Cherida Hampstead,72 Farmco Alley
+418,Gasoline,736.48,4.67,3439.3616,Czech Republic,Thailand,Pipeline,12/6/2022,3/26/2022,Rudolf Derrell,Onofredo Spurdens,054 Gulseth Drive
+419,Heating Oil,156.52,1.37,214.4324,Indonesia,China,Pipeline,12/19/2022,1/20/2022,Freddie Heinrici,Enos Daenen,76 Anthes Way
+420,Gasoline,8876.4,2.19,19439.316,France,Russia,Ship,3/9/2022,1/19/2022,Obadiah Landells,Bond Guerreru,831 East Hill
+421,Heating Oil,8761.1,3.31,28999.241,Czech Republic,Indonesia,Pipeline,2/21/2022,6/19/2022,Vinnie Fishby,Barbe Faircley,45487 Almo Junction
+422,Heating Oil,1440.52,2.04,2938.6608,China,Indonesia,Tank Truck,6/13/2022,1/2/2022,Barthel Moxom,Irvine Krysztofiak,4 Hanson Crossing
+423,Gasoline,8288.97,3.3,27353.601,China,Sweden,Ship,8/6/2022,3/10/2022,Charlena Tuttiett,Madelene Bredbury,3 Cascade Plaza
+424,Diesel,5064.32,4.15,21016.928,Indonesia,Egypt,Ship,5/23/2022,10/12/2022,Sansone McGragh,Garret Quigg,9629 Farwell Lane
+425,Diesel,3414.09,1.3,4438.317,Portugal,Japan,Pipeline,7/12/2022,10/10/2022,Everard Filmer,Kassandra Gidman,2825 North Road
+426,Heating Oil,1571.31,3.78,5939.5518,China,Indonesia,Pipeline,3/21/2022,9/10/2022,Pearle McCabe,Alex Ferras,5 Haas Park
+427,Gasoline,5368.14,4.11,22063.0554,Bulgaria,France,Pipeline,1/8/2022,11/25/2022,Conant Tottem,Kirby Simonsen,34 Calypso Crossing
+428,Diesel,7373.95,1.12,8258.824,Croatia,China,Ship,6/1/2022,2/14/2022,Sid Eatherton,Malachi Dell Casa,49 Novick Park
+429,Heating Oil,4148.04,4.65,19288.386,Azerbaijan,Vietnam,Pipeline,6/24/2022,2/19/2022,Jemima Scoyles,Calley Grant,2033 Bartelt Park
+430,Heating Oil,3236.79,4.14,13400.3106,Colombia,Poland,Tank Truck,10/17/2022,10/3/2022,Emanuel Forrestor,Vinson Weeds,1 Welch Hill
+431,Diesel,5221.39,3.97,20728.9183,Argentina,China,Ship,3/21/2022,3/6/2022,Niccolo Grugerr,Wileen Moneti,53501 Old Gate Street
+432,Gasoline,2676.33,2.94,7868.4102,Indonesia,Honduras,Ship,8/15/2022,6/15/2022,Shir McFarland,Edouard Shillington,66 Oakridge Street
+433,Gasoline,4392.02,2.06,9047.5612,Ethiopia,Mexico,Tank Truck,4/11/2022,10/29/2022,Nellie Tullot,Elberta Lintill,291 Myrtle Court
+434,Diesel,7191.44,4.61,33152.5384,Indonesia,Russia,Tank Truck,6/28/2022,1/12/2022,Charil Giraths,Janek Hookes,262 Shoshone Point
+435,Gasoline,7157.09,2.32,16604.4488,Czech Republic,China,Tank Truck,10/21/2022,6/19/2022,Leone Leahy,Aurelie Relfe,404 Jenna Hill
+436,Gasoline,8535.68,1.63,13913.1584,Russia,Sweden,Ship,6/4/2022,4/28/2022,Fremont Gehrts,Dukie Wallwood,94266 Cascade Alley
+437,Gasoline,6630.09,3.75,24862.8375,Nicaragua,Suriname,Ship,1/27/2022,3/24/2022,Thia Wiburn,Hersh Usmar,0 Sunnyside Alley
+438,Gasoline,5775.67,1.66,9587.6122,Colombia,Indonesia,Ship,1/2/2022,6/27/2022,Inga Denison,Susanetta McLuckie,8953 Bunker Hill Alley
+439,Diesel,1327.4,1.65,2190.21,Indonesia,Brazil,Ship,8/4/2022,8/13/2022,Nata Gooding,Adolf Brummell,67102 Hollow Ridge Avenue
+440,Heating Oil,5521.8,2.77,15295.386,Czech Republic,Uganda,Tank Truck,12/15/2022,12/7/2022,Fidel Lettice,Rhianon Rosewarne,8234 Browning Court
+441,Diesel,8368.64,1.79,14979.8656,Russia,China,Pipeline,6/2/2022,12/17/2022,Nicola Ivan,Hervey MacGow,6818 Graceland Street
+442,Gasoline,1945.82,2.26,4397.5532,Iran,Indonesia,Tank Truck,12/2/2022,11/27/2022,Edvard Tuison,Ashlan Illingsworth,473 Merry Plaza
+443,Diesel,6965.81,1.58,11005.9798,Palestinian Territory,Slovenia,Pipeline,1/24/2022,11/19/2022,Rice Aingel,Whitby Volette,3155 Roxbury Junction
+444,Heating Oil,7078.26,4.9,34683.474,Japan,Brazil,Ship,4/9/2022,7/2/2022,Reeta Bevington,Laurette Guerreiro,93310 Vidon Terrace
+445,Heating Oil,4727.44,4.24,20044.3456,Russia,Brazil,Tank Truck,2/3/2022,2/19/2022,Shayna Barwis,Renado Brewins,81 Londonderry Hill
+446,Diesel,5951.69,3.13,18628.7897,China,France,Ship,2/15/2022,8/27/2022,Beret Hallwood,Willette Witcombe,1 Hovde Park
+447,Diesel,1851.03,4.17,7718.7951,Thailand,Thailand,Ship,11/29/2022,7/26/2022,Hortense Caile,Dorothee Bardwall,02427 Springview Parkway
+448,Gasoline,9950.07,1.92,19104.1344,Ukraine,China,Ship,8/20/2022,3/2/2022,Pavel Penelli,Dick Beche,6 Merrick Trail
+449,Diesel,915.65,1.2,1098.78,United States,Canada,Tank Truck,12/12/2022,11/27/2022,Sibylle Carabine,Domenico Gouldsmith,6 Boyd Alley
+450,Diesel,6377.13,4.17,26592.6321,Indonesia,Indonesia,Pipeline,7/26/2022,2/5/2022,Sarina Gertz,Ferdinand Kohnen,71332 Springs Hill
+451,Gasoline,8929.27,1.18,10536.5386,Russia,Poland,Pipeline,6/2/2022,8/22/2022,Ida Withringten,Burl Swales,1711 Morning Crossing
+452,Heating Oil,8643.79,3.12,26968.6248,China,Brazil,Tank Truck,9/2/2022,1/7/2022,Petronille Pringuer,Rodney Brunicke,73 Northview Point
+453,Diesel,5467.4,1.89,10333.386,United Kingdom,United States,Tank Truck,10/26/2022,9/9/2022,Fredericka McQuillan,Merrill Kedward,66087 Caliangt Court
+454,Diesel,7444.11,1.06,7890.7566,Gabon,Iran,Tank Truck,4/12/2022,12/17/2022,Elmira Iozefovich,Tabor Loveredge,27 Manley Place
+455,Gasoline,3860.29,1.22,4709.5538,Morocco,Canada,Pipeline,3/6/2022,11/20/2022,Stepha Semrad,Perkin Grigoriscu,1464 Cottonwood Lane
+456,Diesel,1004.55,3.6,3616.38,Indonesia,South Africa,Tank Truck,5/19/2022,10/27/2022,Gretta Landy,Brigit McCome,7 Welch Point
+457,Heating Oil,7182.53,1.78,12784.9034,Mexico,Yemen,Ship,3/4/2022,1/19/2022,Sheree Cramer,Karry Sandes,5 Spenser Pass
+458,Gasoline,9353.02,1.19,11130.0938,Malaysia,Poland,Pipeline,5/27/2022,12/6/2022,Phil Huburn,Jim Yerson,1767 Sycamore Circle
+459,Diesel,2820.61,3.85,10859.3485,Zambia,United States,Tank Truck,12/24/2022,8/22/2022,Ase Laurisch,Gabey Ladel,2 Norway Maple Lane
+460,Diesel,3246.84,2.17,7045.6428,Indonesia,Poland,Ship,4/2/2022,6/18/2022,Lucho Yaakov,Harri Sarrell,251 Corben Crossing
+461,Heating Oil,383.41,4.54,1740.6814,Philippines,Turkmenistan,Ship,5/20/2022,1/8/2022,Angelina Hitscher,Genevieve Leisman,8 Schmedeman Crossing
+462,Diesel,3738.55,2.66,9944.543,China,Portugal,Pipeline,12/8/2022,3/6/2022,Wiatt Charle,Nichols Hyrons,502 Hermina Center
+463,Heating Oil,7968.95,3.3,26297.535,Colombia,China,Ship,6/29/2022,7/6/2022,Giselle Lambe,Dani Colclough,839 Evergreen Trail
+464,Gasoline,1055.82,1.64,1731.5448,Haiti,Vietnam,Tank Truck,11/4/2022,6/20/2022,Mohandas Schiell,Audrye Oboy,854 Hanson Circle
+465,Gasoline,736.25,2.4,1767.0,Luxembourg,Indonesia,Pipeline,4/17/2022,3/30/2022,Felice Arsey,Oren Shorthouse,37526 Nevada Pass
+466,Gasoline,5796.92,2.65,15361.838,Sweden,Poland,Ship,1/31/2022,3/3/2022,Fayette Bleaden,Nana Lindenman,741 Artisan Lane
+467,Gasoline,9284.41,1.93,17918.9113,Nigeria,Russia,Pipeline,10/22/2022,2/22/2022,Adela Tomaskov,Roxine Glandfield,0896 Holy Cross Way
+468,Gasoline,8458.5,1.17,9896.445,China,Luxembourg,Tank Truck,12/19/2022,2/7/2022,Stephani Iacovazzi,Edvard Mackney,1 Dahle Trail
+469,Heating Oil,9950.73,2.18,21692.5914,Russia,Indonesia,Tank Truck,10/24/2022,3/6/2022,Joyann Wakefield,Dacia Aire,12 Butterfield Street
+470,Gasoline,7555.81,2.31,17453.9211,Thailand,China,Tank Truck,8/11/2022,4/17/2022,Marcelo Bignal,Lorene Cambridge,8801 Ohio Way
+471,Heating Oil,7832.64,4.8,37596.672,Indonesia,Brazil,Pipeline,4/2/2022,3/21/2022,Ruthanne O'Cannan,Cassandra McCarlich,4775 Portage Hill
+472,Heating Oil,191.17,3.17,606.0089,China,Sweden,Pipeline,7/17/2022,5/11/2022,Lizabeth Westhoff,Dayle Walkowski,8919 Doe Crossing Point
+473,Gasoline,3345.03,1.5,5017.545,Botswana,Honduras,Tank Truck,1/18/2022,12/29/2022,Maribel Clymer,Perri Cobbe,42 Corry Point
+474,Diesel,5851.46,4.58,26799.6868,Philippines,China,Tank Truck,8/12/2022,7/30/2022,Andrea Simkin,Renado Bissatt,4283 Evergreen Crossing
+475,Heating Oil,7576.01,2.82,21364.3482,Colombia,Mexico,Pipeline,10/3/2022,9/13/2022,Dicky MacKibbon,Karrie McElane,9563 Autumn Leaf Alley
+476,Gasoline,8116.24,1.93,15664.3432,Turkmenistan,Serbia,Tank Truck,4/6/2022,7/29/2022,Hobard Gillino,Kleon Wollacott,50528 Manufacturers Point
+477,Heating Oil,4376.49,4.78,20919.6222,Croatia,Afghanistan,Ship,7/9/2022,3/3/2022,Efren Housbie,Sophey Andreotti,7 Shoshone Trail
+478,Diesel,2269.44,4.03,9145.8432,Poland,Russia,Ship,1/9/2022,8/30/2022,Carmella Raddenbury,Ofilia Tremblet,32 Golf View Drive
+479,Gasoline,2866.78,1.12,3210.7936,China,Colombia,Ship,6/10/2022,12/11/2022,Irv Valentinuzzi,Mac Warret,40111 Eastlawn Lane
+480,Heating Oil,576.13,4.04,2327.5652,South Korea,China,Pipeline,7/29/2022,8/14/2022,Hallie Heinzler,Willi Leger,0 Pleasure Center
+481,Heating Oil,8123.41,3.37,27375.8917,Indonesia,Indonesia,Tank Truck,5/24/2022,11/28/2022,Darda Benninger,Dorice Eaglestone,571 Southridge Center
+482,Diesel,4483.44,3.54,15871.3776,China,Pakistan,Pipeline,3/29/2022,12/29/2022,Reidar Giabuzzi,Enos Harland,8 Mcbride Pass
+483,Gasoline,4390.26,2.84,12468.3384,China,Nigeria,Pipeline,1/23/2022,12/24/2022,Renault Jugging,Agna Tiron,873 Stephen Center
+484,Gasoline,3295.34,3.88,12785.9192,Indonesia,Philippines,Pipeline,5/28/2022,12/2/2022,Ced Zanicchi,Tommy Patis,18 Dwight Way
+485,Heating Oil,2083.6,4.67,9730.412,Japan,Niger,Ship,1/27/2022,9/11/2022,Ewell Isenor,Dewey Catenot,61 Springview Court
+486,Gasoline,8578.89,1.11,9522.5679,Estonia,Macedonia,Tank Truck,2/23/2022,8/22/2022,Willabella Togwell,Aleda Riches,0 Dixon Street
+487,Gasoline,9259.82,1.01,9352.4182,Sweden,Portugal,Ship,6/23/2022,1/17/2022,Charles Parmley,Delilah Winning,30 Lindbergh Parkway
+488,Diesel,1202.47,2.76,3318.8172,Indonesia,Sierra Leone,Pipeline,12/10/2022,5/10/2022,Eward Stolz,Tedra Pechacek,458 Heath Plaza
+489,Diesel,2261.74,4.74,10720.6476,New Zealand,South Africa,Ship,1/4/2022,6/2/2022,Dex Dumphry,Allyce Cheasman,36 Esker Parkway
+490,Gasoline,7543.43,2.08,15690.3344,Japan,Thailand,Ship,12/28/2022,8/27/2022,Diarmid Hintze,Leigh Nixon,4 Paget Drive
+491,Heating Oil,493.09,2.43,1198.2087,United States,China,Pipeline,12/26/2022,2/4/2022,Micheil De Mars,Morry Mosten,18588 Dennis Terrace
+492,Diesel,4209.48,4.51,18984.7548,Poland,Saint Lucia,Pipeline,12/22/2022,7/17/2022,Barth Billingsly,Quentin Muffitt,7 Maple Pass
+493,Gasoline,977.19,4.6,4495.074,France,China,Ship,1/8/2022,1/11/2022,Lynn Joire,Karla Milkin,404 Muir Avenue
+494,Heating Oil,2569.11,3.43,8812.0473,Indonesia,China,Pipeline,4/14/2022,11/17/2022,Riordan Goulthorp,Paula Bragg,05950 Kensington Drive
+495,Heating Oil,652.73,4.86,3172.2678,Colombia,Brazil,Pipeline,4/25/2022,11/17/2022,Ephrayim Gravener,Barn Bonar,81522 Eliot Point
+496,Gasoline,6303.37,3.43,21620.5591,Ukraine,Indonesia,Ship,6/23/2022,3/19/2022,Kalvin Couttes,Ximenes Moatt,8362 Morning Parkway
+497,Heating Oil,6934.52,4.98,34533.9096,Bulgaria,China,Tank Truck,5/14/2022,6/22/2022,Cliff Trueman,Olav Rustan,660 Service Alley
+498,Gasoline,6378.37,4.32,27554.5584,Venezuela,Ukraine,Pipeline,6/1/2022,12/24/2022,Dianna Minger,Nicolina Robardley,7 Coolidge Court
+499,Heating Oil,3494.14,4.29,14989.8606,Sweden,South Sudan,Pipeline,12/5/2022,4/7/2022,Kendre Melton,Syd Brekonridge,66865 Veith Street
+500,Gasoline,8664.3,1.0,8664.3,Portugal,China,Pipeline,11/12/2022,3/1/2022,Freddy Faires,Buffy Treweek,607 Pawling Street
+501,Gasoline,2932.93,4.46,13080.8678,China,Philippines,Pipeline,4/21/2022,3/25/2022,Theobald Skettles,Marne Ferraro,5144 Anderson Plaza
+502,Diesel,8313.68,1.79,14881.4872,Philippines,Sweden,Pipeline,11/23/2022,9/28/2022,Elbertina Hacaud,Ellene Gogin,30 Fisk Crossing
+503,Heating Oil,4393.96,4.91,21574.3436,France,Czech Republic,Pipeline,6/21/2022,6/30/2022,Charita Boskell,Armstrong Lansley,01465 Melvin Drive
+504,Diesel,2957.16,4.21,12449.6436,Philippines,Myanmar,Ship,3/14/2022,10/4/2022,Olivette Petrollo,Kandy Bassingden,328 Briar Crest Plaza
+505,Gasoline,3082.43,2.5,7706.075,China,Canada,Pipeline,12/11/2022,6/3/2022,Naomi Ellard,Richie Bennell,89 Laurel Road
+506,Heating Oil,6508.84,2.98,19396.3432,Ethiopia,Malaysia,Tank Truck,2/4/2022,10/11/2022,Mariquilla Pilbury,Ainsley Bradburn,93 Thackeray Circle
+507,Diesel,7503.07,4.78,35864.6746,China,Portugal,Tank Truck,10/2/2022,3/28/2022,Sherwynd Liptrod,Stefa Thornton,78 Sunbrook Junction
+508,Diesel,9457.75,4.94,46721.285,Poland,New Zealand,Ship,4/25/2022,10/21/2022,Dru Camamile,Teresita Stellino,2847 Blackbird Terrace
+509,Diesel,4600.14,2.36,10856.3304,Italy,Indonesia,Pipeline,2/6/2022,1/15/2022,Izaak Haddrill,Teador Radnedge,4 Vermont Circle
+510,Heating Oil,9510.33,4.98,47361.4434,Philippines,El Salvador,Tank Truck,7/20/2022,3/15/2022,Cristine Border,Jessy Phillipp,16 Canary Trail
+511,Gasoline,5620.25,2.33,13095.1825,Thailand,Macedonia,Pipeline,2/17/2022,10/13/2022,Cheslie Van Driel,Kaleena Berrick,75 Scott Alley
+512,Gasoline,5636.11,3.67,20684.5237,Croatia,China,Ship,4/11/2022,2/23/2022,Carlee Onele,Boonie Schade,11587 Eastwood Street
+513,Heating Oil,5476.05,2.93,16044.8265,China,Indonesia,Ship,12/19/2022,11/21/2022,Dav Cuddihy,Susette Ferrer,94 Anzinger Plaza
+514,Diesel,5148.47,4.16,21417.6352,Philippines,China,Pipeline,11/18/2022,7/7/2022,Torrance Deamer,Marion Canedo,1 Dahle Trail
+515,Gasoline,5255.9,2.82,14821.638,China,Kazakhstan,Tank Truck,6/17/2022,3/1/2022,Ottilie Bennitt,Dynah Fernez,67 Elgar Way
+516,Gasoline,5593.32,4.72,26400.4704,China,Brazil,Ship,6/29/2022,11/3/2022,Hanni Doran,Christean Skerratt,3 Glendale Park
+517,Gasoline,9909.14,3.71,36762.9094,China,Belarus,Tank Truck,1/7/2022,9/6/2022,Melania Sharply,Herve Domingues,6199 Maple Center
+518,Diesel,8232.52,3.27,26920.3404,Portugal,Sweden,Ship,7/7/2022,1/4/2022,Ardyce Giottini,Isaiah Courtois,8 Graceland Junction
+519,Heating Oil,836.76,1.26,1054.3176,Japan,Brazil,Ship,12/13/2022,2/28/2022,Beret Buxsey,Britney Hazlewood,35077 Kingsford Hill
+520,Diesel,9473.9,1.25,11842.375,Indonesia,Mexico,Ship,10/19/2022,10/21/2022,Brynn Frany,Dorie Drayson,9 Blue Bill Park Junction
+521,Diesel,3888.92,4.95,19250.154,Sierra Leone,Poland,Ship,1/31/2022,8/4/2022,Mercy Lafayette,Keith O'Fairy,924 South Court
+522,Heating Oil,3778.21,4.61,17417.5481,Sweden,Mali,Pipeline,7/24/2022,11/18/2022,Jedd Kinsell,Appolonia Dorset,53 Dapin Street
+523,Diesel,9656.04,1.3,12552.852,Greece,Palestinian Territory,Ship,4/10/2022,2/14/2022,Valery Degli Abbati,Andromache Croke,46019 Laurel Road
+524,Gasoline,8737.68,4.57,39931.1976,China,China,Pipeline,10/27/2022,12/9/2022,Walt Siely,Dalia Eefting,94988 Grayhawk Street
+525,Heating Oil,1573.52,2.72,4279.9744,China,Zambia,Tank Truck,3/19/2022,12/21/2022,Dolores Robberecht,Hamish Dunbar,1 Mallard Center
+526,Heating Oil,521.53,3.59,1872.2927,Thailand,Indonesia,Pipeline,1/14/2022,12/17/2022,Heddi Brittin,Danell Berrisford,2 Nova Center
+527,Gasoline,574.53,3.59,2062.5627,Indonesia,Philippines,Tank Truck,12/14/2022,9/30/2022,Alyssa Delgaty,Andy Gannaway,254 Meadow Valley Pass
+528,Gasoline,6660.91,2.56,17051.9296,Estonia,Canada,Tank Truck,11/28/2022,11/22/2022,Paten Terron,Sela Raulstone,342 Dennis Circle
+529,Gasoline,9043.64,4.5,40696.38,Colombia,Venezuela,Pipeline,12/13/2022,12/27/2022,Algernon Hedau,Anica Natwick,88 Butterfield Place
+530,Diesel,5169.49,2.26,11683.0474,United States,Sweden,Pipeline,1/30/2022,3/28/2022,Viki Ricci,Stanislas Renbold,81596 Arkansas Street
+531,Gasoline,846.27,1.6,1354.032,China,China,Tank Truck,2/28/2022,3/9/2022,Arlina Cape,Teresina Garrity,9748 2nd Alley
+532,Heating Oil,517.8,2.83,1465.374,Palestinian Territory,France,Ship,10/13/2022,11/28/2022,Rees Cotterrill,Saba Carn,67 Crowley Road
+533,Diesel,9297.11,3.53,32818.7983,Sweden,Pakistan,Tank Truck,9/13/2022,1/13/2022,Tamarra Mosedale,Michel Normand,39 Talisman Junction
+534,Gasoline,3691.67,1.59,5869.7553,China,France,Ship,10/9/2022,5/11/2022,Gilberte Power,Murdock Britto,778 Hoffman Point
+535,Heating Oil,3143.86,4.0,12575.44,Belarus,Cuba,Ship,10/6/2022,11/9/2022,Carlie Skelhorne,Gustavus Hayball,51460 Porter Place
+536,Heating Oil,2249.27,3.53,7939.9231,Sweden,China,Pipeline,6/3/2022,3/7/2022,Felipa Megson,Roslyn Coolican,53 Clarendon Lane
+537,Heating Oil,8833.02,3.32,29325.6264,Uzbekistan,Russia,Ship,9/14/2022,7/9/2022,Alberta Matlock,Rivy Spieck,93158 Schurz Trail
+538,Diesel,7729.02,2.66,20559.1932,China,Philippines,Pipeline,1/13/2022,5/13/2022,Jeff Townson,Moria Jeannet,215 Ridgeway Circle
+539,Diesel,4321.78,4.53,19577.6634,Netherlands,Latvia,Ship,7/31/2022,8/24/2022,Vance Laidlaw,Devora Line,1 Monterey Alley
+540,Diesel,6983.35,2.35,16410.8725,Portugal,Colombia,Tank Truck,11/24/2022,11/29/2022,Eugen Haymes,Meggie Masarrat,4553 Ronald Regan Drive
+541,Diesel,3450.04,3.67,12661.6468,Indonesia,Colombia,Ship,8/10/2022,10/22/2022,Abner Dulwich,Adamo Karpinski,0306 Meadow Ridge Place
+542,Diesel,6932.3,2.75,19063.825,Brazil,Argentina,Ship,4/2/2022,2/1/2022,Mace Younghusband,Cherrita Culver,151 Oxford Alley
+543,Gasoline,7893.11,3.64,28730.9204,Sweden,Japan,Tank Truck,4/18/2022,8/27/2022,Aurea Lubomirski,Tani Shegog,28 Merchant Junction
+544,Diesel,1459.89,2.25,3284.7525,Tanzania,Pakistan,Pipeline,10/6/2022,5/21/2022,Hazlett Capelin,Riva Schneidar,1673 Hazelcrest Court
+545,Diesel,5717.37,4.21,24070.1277,Bolivia,Czech Republic,Tank Truck,9/12/2022,6/8/2022,Antoni Terbrugge,Bernard Kuhnel,5 Bay Drive
+546,Heating Oil,1757.38,1.64,2882.1032,Colombia,China,Tank Truck,3/9/2022,6/26/2022,Genny Darque,Goddard Downe,4 Banding Avenue
+547,Diesel,2985.24,4.34,12955.9416,Peru,Russia,Ship,4/12/2022,12/16/2022,Hilliary Ruddoch,Marilyn Faier,52 Steensland Center
+548,Heating Oil,5635.18,4.53,25527.3654,Vietnam,Azerbaijan,Tank Truck,11/22/2022,4/8/2022,Sari Rubbert,Van Ludford,08305 Sycamore Center
+549,Heating Oil,3307.08,3.98,13162.1784,Ecuador,Philippines,Pipeline,6/27/2022,3/5/2022,Beverie MacGill,Pincus Potkin,3226 Hoepker Center
+550,Gasoline,6053.86,4.16,25184.0576,Indonesia,Vietnam,Tank Truck,7/28/2022,3/22/2022,Percival Fassman,Mae Tutton,91 Lawn Drive
+551,Heating Oil,7755.16,1.46,11322.5336,China,Russia,Tank Truck,5/16/2022,2/11/2022,Shelbi Adriaens,Shirlene Bernardez,53 Bartillon Trail
+552,Heating Oil,2420.28,1.51,3654.6228,China,China,Tank Truck,11/5/2022,1/27/2022,Joelly Thomlinson,Marcie Glossup,580 Northfield Circle
+553,Diesel,8616.14,4.05,34895.367,China,China,Tank Truck,5/6/2022,10/10/2022,Sidnee Terney,Gualterio Winstanley,68011 Bonner Road
+554,Gasoline,390.29,1.03,401.9987,Peru,Egypt,Tank Truck,1/12/2022,2/19/2022,Odey Dallon,Blanch Shimmans,63254 Brentwood Plaza
+555,Diesel,9969.1,2.02,20137.582,Nigeria,Nigeria,Tank Truck,6/14/2022,6/25/2022,Gil Storr,Adelind d' Eye,72650 Jana Court
+556,Heating Oil,595.74,3.52,2097.0048,China,Burkina Faso,Pipeline,7/20/2022,8/19/2022,Francklin Wall,Phip Feltham,8 Laurel Way
+557,Diesel,9602.4,4.34,41674.416,Peru,China,Tank Truck,11/13/2022,2/1/2022,Candace Hoodless,Vanni Hryniewicki,090 Washington Center
+558,Heating Oil,8806.02,4.83,42533.0766,Japan,Indonesia,Pipeline,12/11/2022,8/7/2022,Almeda Tabert,Maren Tromans,545 Merchant Trail
+559,Gasoline,5222.25,4.85,25327.9125,Indonesia,Portugal,Ship,11/28/2022,3/3/2022,Nanny Kirmond,Teodora Sugar,02 Macpherson Junction
+560,Diesel,7829.36,3.12,24427.6032,Lebanon,Colombia,Pipeline,10/2/2022,2/23/2022,Heidie Vasyagin,Chaim Rolfi,541 Towne Trail
+561,Gasoline,1311.06,4.38,5742.4428,Serbia,Philippines,Tank Truck,5/21/2022,9/27/2022,Breena MacKibbon,Walliw Guiraud,53 Dapin Road
+562,Diesel,650.65,3.6,2342.34,Indonesia,Japan,Pipeline,10/14/2022,5/18/2022,Etheline Vowell,Sherman Benyon,5482 Meadow Ridge Terrace
+563,Diesel,1646.23,1.21,1991.9383,Russia,United States,Tank Truck,7/21/2022,2/15/2022,Bale Youngman,Claire Gwinn,9949 Lerdahl Crossing
+564,Diesel,6571.12,1.45,9528.124,China,Madagascar,Tank Truck,11/22/2022,1/19/2022,Nikola Raecroft,Kelwin O'Hallihane,0238 School Plaza
+565,Heating Oil,2413.62,1.38,3330.7956,Djibouti,Indonesia,Tank Truck,6/4/2022,3/18/2022,Ellyn Wrangle,Ashly Pickersail,076 Anderson Terrace
+566,Diesel,2250.5,1.88,4230.94,South Korea,Canada,Ship,7/23/2022,9/27/2022,Maddy Otter,Hermy Attrey,5 Westridge Court
+567,Gasoline,4271.19,2.05,8755.9395,Argentina,Mexico,Tank Truck,10/9/2022,3/1/2022,Trude Challiner,Lester Valenta,1556 Corben Park
+568,Diesel,4966.57,1.01,5016.2357,Canada,South Africa,Ship,11/1/2022,9/29/2022,Chastity Kensington,Tessy Madsen,91538 Thackeray Plaza
+569,Heating Oil,8295.43,1.6,13272.688,Portugal,Brazil,Pipeline,5/31/2022,12/18/2022,Harriot Gilliat,Bond Burburough,7212 Claremont Trail
+570,Diesel,9444.91,1.29,12183.9339,Portugal,China,Pipeline,7/16/2022,3/14/2022,Phaidra Vasyanin,Gabbie Osbaldeston,322 Carpenter Alley
+571,Heating Oil,8608.99,1.97,16959.7103,Philippines,China,Pipeline,8/21/2022,11/15/2022,Vevay Owers,Bee Suffield,5113 Drewry Alley
+572,Diesel,3562.18,1.58,5628.2444,Jamaica,Canada,Tank Truck,7/31/2022,10/8/2022,Arne Gothliff,Carri Chedzoy,10795 Derek Road
+573,Gasoline,9543.85,2.24,21378.224,Sweden,Czech Republic,Pipeline,2/10/2022,1/31/2022,Dall Raithby,Sapphira Streeting,1549 Colorado Hill
+574,Gasoline,2770.27,3.09,8560.1343,Philippines,Philippines,Ship,12/3/2022,9/4/2022,Sherline Streeten,Bridget Amoss,9 Crownhardt Parkway
+575,Heating Oil,3616.29,1.96,7087.9284,Indonesia,China,Tank Truck,3/18/2022,11/26/2022,Chandal Ternouth,Halsy McCullen,578 Forest Run Lane
+576,Heating Oil,1758.9,1.77,3113.253,France,China,Tank Truck,11/11/2022,7/27/2022,Merrily Sara,Marjory Bousquet,147 Fieldstone Center
+577,Heating Oil,5978.25,1.51,9027.1575,Albania,France,Tank Truck,1/26/2022,7/24/2022,Udall Gustus,Ingamar MacFarlane,44172 Lillian Pass
+578,Diesel,1252.35,3.0,3757.05,China,France,Tank Truck,9/9/2022,6/19/2022,Conroy Trenear,Amelia Scriviner,3 Cambridge Trail
+579,Heating Oil,8449.39,4.65,39289.6635,China,Russia,Tank Truck,4/30/2022,12/27/2022,Guendolen Tall,Farleigh Handy,27 Birchwood Terrace
+580,Gasoline,2635.39,4.48,11806.5472,Indonesia,Czech Republic,Pipeline,6/1/2022,6/6/2022,Myrlene Fleetham,Russ Sedcole,5 Bobwhite Place
+581,Heating Oil,5928.97,4.75,28162.6075,Guatemala,Poland,Ship,10/4/2022,7/31/2022,Tannie Origan,Dalis Ubanks,3512 Holy Cross Terrace
+582,Heating Oil,5577.68,3.88,21641.3984,Ecuador,China,Tank Truck,7/14/2022,6/2/2022,Radcliffe Neagle,Cheri Poplee,949 Stuart Trail
+583,Heating Oil,515.49,3.72,1917.6228,France,China,Ship,6/23/2022,1/9/2022,Justen Spadaro,Adelbert Kesten,49253 Blackbird Terrace
+584,Heating Oil,3790.2,1.62,6140.124,Thailand,Brazil,Pipeline,7/10/2022,2/13/2022,Noll Greggs,Gillan Ayliffe,3581 Farwell Avenue
+585,Gasoline,393.31,4.48,1762.0288,China,China,Tank Truck,4/22/2022,5/3/2022,Claudina Shovelin,Claudia Huskinson,884 Badeau Lane
+586,Diesel,2787.5,2.66,7414.75,Guatemala,Ukraine,Tank Truck,11/3/2022,6/26/2022,Merry Hutson,Kermy Skippen,156 Dexter Hill
+587,Gasoline,3250.76,3.33,10825.0308,China,Indonesia,Tank Truck,2/16/2022,8/30/2022,Neala Puttick,Gusta Van Bruggen,14768 Fair Oaks Circle
+588,Heating Oil,1027.91,2.79,2867.8689,Yemen,Greece,Tank Truck,9/25/2022,6/23/2022,Jeralee Lonsbrough,Grete Sleney,85758 Dakota Center
+589,Diesel,4041.8,3.04,12287.072,Azerbaijan,United States,Ship,10/7/2022,1/15/2022,Gordie Shepheard,Andi Spavins,4818 Pawling Crossing
+590,Diesel,7636.94,3.76,28714.8944,Sweden,Indonesia,Tank Truck,9/17/2022,8/7/2022,Rhonda Ashwell,Kelsey Malley,2376 Donald Point
+591,Gasoline,3998.02,2.3,9195.446,United States,Pakistan,Tank Truck,1/26/2022,5/8/2022,Courtney Brigge,Tulley Dooler,30 Sutherland Place
+592,Heating Oil,7167.65,1.74,12471.711,Venezuela,Argentina,Ship,5/29/2022,3/8/2022,Carol-jean Shillito,Obed Ferreres,4949 Springview Hill
+593,Heating Oil,5514.43,1.06,5845.2958,Brazil,China,Tank Truck,9/9/2022,3/28/2022,Aube Daniell,Pancho Mayworth,82641 Upham Way
+594,Diesel,6402.24,3.15,20167.056,Colombia,Azerbaijan,Pipeline,5/8/2022,3/10/2022,Bernadina Fowley,Monroe Merrick,2289 Pond Park
+595,Gasoline,2974.12,1.08,3212.0496,China,Indonesia,Tank Truck,3/30/2022,4/12/2022,Barth Ault,Randee Potteridge,81 Everett Parkway
+596,Heating Oil,7125.81,1.85,13182.7485,United States,Sweden,Tank Truck,8/11/2022,4/14/2022,Anthia Smaridge,Zacharia Kippins,7157 Green Ridge Crossing
+597,Gasoline,2021.04,4.9,9903.096,Nigeria,Dominican Republic,Ship,9/4/2022,1/24/2022,Netty Mirams,Kermie Cluff,06 Coolidge Alley
+598,Diesel,9673.42,3.33,32212.4886,Philippines,Mexico,Tank Truck,1/23/2022,5/16/2022,Guglielma Abrey,Ephraim Spikins,132 7th Crossing
+599,Diesel,8367.1,2.49,20834.079,United States,Russia,Tank Truck,11/2/2022,2/3/2022,Bendicty Bealton,Scotty Di Antonio,06 Declaration Point
+600,Gasoline,7073.57,1.85,13086.1045,United States,China,Pipeline,8/29/2022,12/23/2022,Renault Haberfield,Martha Ricciardiello,57 Northwestern Parkway
+601,Heating Oil,3762.22,3.19,12001.4818,Japan,Indonesia,Pipeline,9/1/2022,8/7/2022,Doris Branscomb,Hayes Servis,39584 Bashford Road
+602,Diesel,5086.84,3.46,17600.4664,Philippines,Ecuador,Pipeline,3/20/2022,6/5/2022,Hedi Cosh,Dagny Gayton,89 Myrtle Lane
+603,Gasoline,3069.95,3.85,11819.3075,Sweden,China,Ship,12/13/2022,2/10/2022,Delila Obray,Emanuel Ritmeier,63790 Dahle Trail
+604,Gasoline,291.78,3.54,1032.9012,Russia,Indonesia,Ship,6/20/2022,1/16/2022,Der Alesi,Gerianne Marguerite,2 Dapin Place
+605,Diesel,3941.12,3.39,13360.3968,Indonesia,China,Tank Truck,11/14/2022,4/17/2022,Bondie Mapledoram,Nataline Livett,4 Superior Junction
+606,Gasoline,5499.43,3.34,18368.0962,China,China,Tank Truck,7/11/2022,1/1/2022,Dodie Gladtbach,Alvis Rosenbush,87 New Castle Pass
+607,Gasoline,1009.46,3.29,3321.1234,France,Poland,Ship,7/27/2022,6/25/2022,Bella Whyte,Katerina Trevers,33540 Menomonie Terrace
+608,Heating Oil,5619.85,4.08,22928.988,Uganda,Palestinian Territory,Tank Truck,5/10/2022,1/7/2022,Jefferson Selland,Galven McIlheran,98195 Manitowish Way
+609,Gasoline,9100.86,4.53,41226.8958,China,Philippines,Ship,8/5/2022,9/6/2022,Jameson Thornhill,Cordi Waldron,0 Arizona Pass
+610,Diesel,3106.1,1.47,4565.967,Colombia,Niger,Pipeline,2/23/2022,7/2/2022,Alessandra Morling,Shelley Tudhope,39 Miller Parkway
+611,Heating Oil,3773.63,1.34,5056.6642,Nigeria,Argentina,Tank Truck,8/12/2022,12/1/2022,Cacilia Ander,Nicoline Scoines,416 Artisan Way
+612,Gasoline,2090.5,2.34,4891.77,Greece,Indonesia,Tank Truck,12/22/2022,6/21/2022,Mechelle Holligan,Cordy Luciano,535 Graedel Alley
+613,Heating Oil,5709.64,3.36,19184.3904,Poland,Russia,Tank Truck,4/16/2022,3/27/2022,Conni Wiz,Osborne Clemmey,4 Loomis Drive
+614,Diesel,9682.23,1.05,10166.3415,Guinea,Mauritania,Pipeline,6/3/2022,10/11/2022,Kendre Somerton,Roda Guillerman,31 Dovetail Court
+615,Diesel,6634.89,3.59,23819.2551,China,Lithuania,Pipeline,5/30/2022,2/14/2022,Edita Shewery,Warren Mithun,9117 Prentice Park
+616,Heating Oil,8903.08,1.36,12108.1888,Malaysia,Russia,Ship,3/19/2022,5/21/2022,Emyle Lerhinan,Cinnamon Polson,17 Melody Center
+617,Heating Oil,489.59,3.9,1909.401,Russia,Belgium,Pipeline,12/29/2022,9/29/2022,Iolande Davidavidovics,Jason Sedgemore,2 Sutteridge Hill
+618,Gasoline,6642.65,4.01,26637.0265,Sweden,Thailand,Pipeline,9/20/2022,10/17/2022,Tabina Foulser,Leonerd Wimsett,55 Talmadge Pass
+619,Diesel,1842.49,4.43,8162.2307,Colombia,Poland,Pipeline,11/19/2022,5/15/2022,Herbert Grinishin,Corena Mellish,5 Mifflin Street
+620,Gasoline,5164.96,3.64,18800.4544,Indonesia,Russia,Pipeline,2/17/2022,7/13/2022,Riobard Tremble,Shelton Wiszniewski,1 Sheridan Road
+621,Gasoline,2070.41,2.68,5548.6988,France,China,Ship,2/9/2022,3/31/2022,Marlena Adin,Fair Lampbrecht,5 Quincy Crossing
+622,Gasoline,5684.14,4.22,23987.0708,Portugal,Colombia,Ship,3/26/2022,12/13/2022,Leoline Faley,Ansell Mariyushkin,02795 Green Junction
+623,Gasoline,6487.61,1.23,7979.7603,Greece,Indonesia,Tank Truck,5/31/2022,1/23/2022,Quinn Lowndsbrough,Malina Schooley,424 Dorton Park
+624,Heating Oil,4411.72,3.04,13411.6288,Brazil,Argentina,Tank Truck,2/8/2022,12/23/2022,Evelin Denyukin,Gianina MacMenamin,9691 Portage Alley
+625,Heating Oil,6215.71,1.4,8701.994,China,Thailand,Ship,10/20/2022,6/29/2022,Munmro Carcass,Friedrich Gilleson,6 Forest Junction
+626,Heating Oil,3787.31,2.55,9657.6405,China,Nigeria,Ship,12/29/2022,2/17/2022,Ariel Heinle,Amabelle Poel,59 Mayer Place
+627,Diesel,8505.12,1.33,11311.8096,Peru,Brazil,Pipeline,10/31/2022,1/25/2022,Eula O' Borne,Farrah Baldam,0 Melody Pass
+628,Heating Oil,5064.43,3.45,17472.2835,Greece,Afghanistan,Tank Truck,9/14/2022,5/11/2022,Jamal Beever,Britteny Aldwich,60514 Ohio Trail
+629,Diesel,419.86,2.46,1032.8556,Bosnia and Herzegovina,Portugal,Pipeline,2/15/2022,4/17/2022,Cherie Stowe,Belicia Pinwell,5627 Muir Point
+630,Gasoline,1508.51,3.32,5008.2532,Vietnam,Brazil,Pipeline,8/8/2022,3/31/2022,Frankie Annand,Hirsch Rive,5 Towne Circle
+631,Heating Oil,3912.21,2.36,9232.8156,Poland,France,Tank Truck,12/25/2022,11/20/2022,Daria Austwick,Harley Brelsford,6 Stone Corner Plaza
+632,Heating Oil,4002.35,1.87,7484.3945,Thailand,Indonesia,Ship,11/8/2022,5/14/2022,Zed Pickover,Dreddy Buckett,8276 Texas Terrace
+633,Heating Oil,6501.3,3.09,20089.017,Indonesia,Pakistan,Ship,8/9/2022,2/20/2022,Nicholle Goodhand,Chevy Lindsley,3 Tennyson Alley
+634,Diesel,6522.63,4.02,26220.9726,China,Zambia,Ship,10/6/2022,12/25/2022,Brooke Emmins,Robby Ringwood,42472 Onsgard Crossing
+635,Gasoline,7204.56,4.74,34149.6144,Swaziland,China,Ship,1/22/2022,10/2/2022,Wilden Sivell,Stacia Walter,32567 Carioca Street
+636,Heating Oil,4257.98,4.37,18607.3726,China,Portugal,Tank Truck,8/26/2022,12/10/2022,Stephenie Szachniewicz,Sargent Dorin,411 Chive Alley
+637,Diesel,8323.29,1.38,11486.1402,Thailand,Albania,Pipeline,6/14/2022,7/20/2022,Tomas Sprowson,Ronny Piercey,55 Mallory Court
+638,Heating Oil,4462.72,1.06,4730.4832,France,Syria,Ship,2/9/2022,11/1/2022,Niels Bebis,Desmund Lisimore,7555 Surrey Place
+639,Diesel,417.76,2.53,1056.9328,Poland,China,Ship,4/11/2022,11/18/2022,Suzann Flisher,Donica Ciciotti,8 Wayridge Hill
+640,Heating Oil,9243.48,3.13,28932.0924,United States,France,Tank Truck,4/21/2022,4/26/2022,Ludvig Jellard,Ruby Cunnah,710 Eastlawn Trail
+641,Diesel,4908.57,1.92,9424.4544,China,Ukraine,Pipeline,6/27/2022,6/1/2022,Lydia Gazey,Matthaeus Kersley,341 Dapin Court
+642,Diesel,8807.85,3.63,31972.4955,France,United States,Tank Truck,6/25/2022,7/4/2022,Pier Carpmile,Cristine Bosomworth,65 Di Loreto Circle
+643,Diesel,9019.4,1.13,10191.922,Brazil,Thailand,Pipeline,9/4/2022,10/4/2022,Archibold Faughnan,Jakob Hutchinges,1 Sachtjen Trail
+644,Gasoline,4196.21,2.21,9273.6241,China,Venezuela,Tank Truck,8/1/2022,1/4/2022,Hector Want,Jarrad Quinevan,4 Dennis Park
+645,Heating Oil,853.9,1.42,1212.538,Kazakhstan,Norway,Tank Truck,4/21/2022,11/14/2022,Ethe Matveichev,Jess Zanussii,7060 Dottie Point
+646,Heating Oil,2502.85,3.73,9335.6305,Mongolia,Philippines,Ship,7/8/2022,9/10/2022,Whitby Dozdill,Hyatt Linke,9 Susan Plaza
+647,Diesel,619.41,4.91,3041.3031,Indonesia,Portugal,Pipeline,1/15/2022,4/3/2022,Sonny Saltwell,Leonard Cliff,05898 Elmside Place
+648,Gasoline,7653.42,2.72,20817.3024,Brazil,Paraguay,Ship,6/29/2022,3/16/2022,Cordey Fontaine,Anabelle Gloucester,03 Claremont Terrace
+649,Gasoline,3377.49,3.78,12766.9122,Indonesia,Philippines,Ship,9/14/2022,12/2/2022,Candida Burgise,Cheslie Frangello,46 Moland Place
+650,Heating Oil,8376.08,1.02,8543.6016,Russia,United States,Pipeline,1/15/2022,8/24/2022,Karissa Mohan,Mortimer McIan,587 Meadow Valley Alley
+651,Diesel,7525.83,4.15,31232.1945,China,Bangladesh,Pipeline,9/16/2022,4/13/2022,Willa Paolino,Cello Salvin,2 Lighthouse Bay Terrace
+652,Gasoline,4606.75,3.64,16768.57,Vietnam,France,Pipeline,4/8/2022,12/1/2022,Cindy Leece,Boony Guilloton,0 Larry Drive
+653,Heating Oil,9459.6,2.22,21000.312,Russia,Peru,Tank Truck,10/19/2022,4/8/2022,Anabel Stickles,Yulma Selborne,35 Warner Crossing
+654,Heating Oil,7276.36,4.64,33762.3104,Ukraine,China,Ship,11/24/2022,4/19/2022,Nils Maddern,Whitney Albone,33 Melby Street
+655,Heating Oil,8062.82,2.09,16851.2938,Indonesia,Argentina,Tank Truck,4/29/2022,6/5/2022,Aland Rainforth,Lucho Driussi,69 Judy Street
+656,Diesel,6149.19,2.35,14450.5965,Tajikistan,Palestinian Territory,Ship,3/13/2022,6/25/2022,Ephraim Lamp,Marjorie O'Looney,4740 Artisan Plaza
+657,Gasoline,8705.87,1.38,12014.1006,Japan,Poland,Ship,4/2/2022,7/8/2022,Robbert Cutting,Bing Scanlan,91410 Old Shore Center
+658,Gasoline,6749.34,3.11,20990.4474,Philippines,Sweden,Pipeline,9/1/2022,10/1/2022,Fran Taylot,Esmeralda Bernardinelli,72 Lyons Crossing
+659,Diesel,8328.34,3.16,26317.5544,Ukraine,Bangladesh,Pipeline,3/9/2022,1/24/2022,Brett Oswal,Joela Fay,870 Wayridge Trail
+660,Gasoline,5484.77,2.68,14699.1836,Cuba,China,Tank Truck,5/23/2022,12/30/2022,Etty Baude,Nancey Axelbey,17 Westridge Plaza
+661,Gasoline,5346.95,4.8,25665.36,South Africa,China,Ship,12/17/2022,6/24/2022,Nicol Dine-Hart,Dorie Ealles,6 Annamark Court
+662,Gasoline,1087.64,3.34,3632.7176,China,South Korea,Pipeline,3/28/2022,7/1/2022,Davita Faircliffe,Aloisia Ortner,0 Village Place
+663,Diesel,6049.84,1.12,6775.8208,Philippines,Nigeria,Tank Truck,8/27/2022,12/18/2022,Deeanne Bourtoumieux,Dael Gibbeson,8389 Victoria Way
+664,Heating Oil,8635.03,4.84,41793.5452,Portugal,Laos,Ship,6/3/2022,6/16/2022,Cullin Arens,Ellerey Thumim,534 Mesta Street
+665,Diesel,2191.3,1.77,3878.601,France,Brazil,Tank Truck,8/3/2022,6/25/2022,Jakie Aartsen,Lind Adnet,0 Briar Crest Terrace
+666,Diesel,201.44,4.46,898.4224,China,Indonesia,Ship,12/23/2022,4/7/2022,Quentin Baike,Pete Boyfield,185 Fair Oaks Road
+667,Gasoline,8167.87,2.71,22134.9277,China,China,Pipeline,11/21/2022,2/3/2022,Rock Medgwick,Jacquetta Mullaney,1509 Steensland Pass
+668,Gasoline,2208.42,2.44,5388.5448,Ecuador,China,Pipeline,8/18/2022,10/18/2022,Sioux Topaz,Rhody Tuson,31429 Carpenter Pass
+669,Heating Oil,1719.82,3.13,5383.0366,Ireland,Russia,Ship,1/25/2022,10/3/2022,Bay Winscum,Sioux Prandin,71 Barnett Drive
+670,Gasoline,1687.93,4.33,7308.7369,Argentina,Indonesia,Pipeline,12/23/2022,10/31/2022,Isabel Partrick,Carlin Jeaneau,7879 Longview Plaza
+671,Gasoline,2309.94,3.94,9101.1636,Slovenia,Indonesia,Pipeline,3/5/2022,8/29/2022,Hendrik Seppey,Diannne Aronsohn,12671 Fair Oaks Plaza
+672,Diesel,5732.52,1.26,7222.9752,Syria,China,Pipeline,9/4/2022,6/5/2022,Kippie Kitcat,Miquela Patinkin,56 Jenifer Hill
+673,Heating Oil,1733.45,1.42,2461.499,Ethiopia,Yemen,Ship,12/17/2022,7/26/2022,Elle Djorevic,Ara Press,1 Crownhardt Center
+674,Heating Oil,854.06,2.09,1784.9854,Poland,Greece,Tank Truck,8/26/2022,1/6/2022,Elmira Mouland,Standford Degoey,78 Beilfuss Avenue
+675,Gasoline,239.6,2.96,709.216,Portugal,China,Tank Truck,12/30/2022,4/4/2022,Brenda Gallie,Willy Rogger,0 Morning Circle
+676,Heating Oil,7547.25,4.58,34566.405,China,Kazakhstan,Ship,2/4/2022,9/10/2022,Marion Lindenberg,Esme Culy,88 Old Shore Circle
+677,Heating Oil,1881.24,3.01,5662.5324,Ethiopia,Ireland,Pipeline,1/24/2022,4/2/2022,Quintana Able,Liv Leasor,145 Melvin Way
+678,Heating Oil,7454.29,3.53,26313.6437,Indonesia,Russia,Ship,5/16/2022,4/25/2022,Kalle Berthouloume,Nell Balden,14329 Ramsey Circle
+679,Gasoline,6138.06,3.27,20071.4562,China,United States,Tank Truck,12/3/2022,3/12/2022,Maddy Yosevitz,Fielding See,63839 Linden Way
+680,Heating Oil,9486.37,2.47,23431.3339,China,Philippines,Ship,4/14/2022,12/30/2022,Edsel Capinetti,Faustine Breen,91 Scott Way
+681,Gasoline,4160.52,4.8,19970.496,China,China,Tank Truck,11/6/2022,3/8/2022,Elnar Filasov,Joyann Giacomuzzo,4328 Oak Valley Lane
+682,Gasoline,8866.28,4.6,40784.888,Mexico,France,Tank Truck,4/3/2022,11/16/2022,Vania Arundale,Minette Heare,0510 Norway Maple Plaza
+683,Gasoline,917.4,3.2,2935.68,United States,Philippines,Tank Truck,9/4/2022,1/30/2022,Suzy Aprahamian,Ulrich Hemeret,28 Pearson Trail
+684,Heating Oil,2584.49,3.15,8141.1435,China,Greece,Tank Truck,7/31/2022,6/10/2022,Valida Sisnett,Jed Leake,72783 Rieder Circle
+685,Heating Oil,7911.15,3.42,27056.133,Cyprus,Philippines,Ship,6/10/2022,11/25/2022,Naoma Fetherstone,Letty Radcliffe,696 Maple Avenue
+686,Gasoline,9473.19,3.97,37608.5643,Russia,Sweden,Tank Truck,3/15/2022,1/21/2022,Marylinda Cottill,Janice Santori,16604 Mifflin Park
+687,Heating Oil,2552.32,2.22,5666.1504,Indonesia,China,Ship,2/27/2022,6/15/2022,Ag Fraine,Cully Heining,57235 Emmet Parkway
+688,Heating Oil,4156.04,4.64,19284.0256,Philippines,Russia,Ship,10/24/2022,5/30/2022,Maryrose Dessent,Amargo Skyrm,43 Lindbergh Hill
+689,Gasoline,9110.65,1.87,17036.9155,China,Iran,Ship,3/11/2022,5/16/2022,Etan Colam,Elsinore Bosomworth,00428 Lindbergh Plaza
+690,Diesel,8518.51,4.27,36374.0377,Philippines,Indonesia,Ship,2/18/2022,9/1/2022,Locke Cheverton,Berthe Keogh,73 Waubesa Place
+691,Diesel,3305.13,2.07,6841.6191,Indonesia,China,Pipeline,5/20/2022,11/1/2022,Timmy McVee,Gwen Osanne,5 John Wall Crossing
+692,Heating Oil,9663.52,1.68,16234.7136,Canada,China,Ship,5/3/2022,3/6/2022,Sybilla Neilson,Nealson Honacker,7 Gerald Hill
+693,Heating Oil,8534.85,1.71,14594.5935,Poland,France,Ship,3/22/2022,8/30/2022,Idalia Lambourne,Amory Figures,4 Sunfield Hill
+694,Heating Oil,8101.37,4.19,33944.7403,Brazil,Serbia,Pipeline,1/27/2022,4/23/2022,Cordy Beamson,Erin Simony,6 Ilene Junction
+695,Gasoline,9406.72,3.32,31230.3104,China,Bangladesh,Pipeline,10/19/2022,11/29/2022,Eryn Dadge,Alley Stoven,12 Fisk Pass
+696,Heating Oil,2346.29,3.74,8775.1246,Poland,China,Pipeline,5/28/2022,4/11/2022,Kaycee Cawsey,Diannne Gibke,4155 Dunning Street
+697,Gasoline,5791.56,4.09,23687.4804,Greece,Poland,Pipeline,3/8/2022,5/15/2022,Kurt Boorne,Anatol Bohler,11 Rigney Road
+698,Heating Oil,259.27,3.4,881.518,Azerbaijan,Ukraine,Tank Truck,10/3/2022,11/22/2022,Forrest Ulyat,Dennison Islep,645 Green Park
+699,Gasoline,3684.95,1.89,6964.5555,New Zealand,China,Tank Truck,7/3/2022,6/15/2022,Estrella Dominicacci,Janeczka Robeiro,04961 Westport Terrace
+700,Gasoline,4457.19,2.45,10920.1155,Canada,United States,Tank Truck,2/20/2022,6/16/2022,Sal Stefi,Edin Filyukov,760 Oneill Plaza
+701,Gasoline,6230.79,2.48,15452.3592,Poland,Philippines,Pipeline,7/6/2022,2/1/2022,Huntley McRannell,Pietro Beldan,09 Vera Junction
+702,Diesel,3918.41,4.28,16770.7948,Indonesia,Ukraine,Ship,4/1/2022,6/3/2022,Mill Jencken,Emanuele Ormston,368 Cottonwood Hill
+703,Gasoline,1007.92,3.59,3618.4328,Indonesia,China,Tank Truck,6/17/2022,9/12/2022,Deloris Abbie,Janeen Elsmore,68 Buhler Parkway
+704,Gasoline,945.67,4.12,3896.1604,Canada,Russia,Pipeline,8/10/2022,2/22/2022,Celinda Stickford,Lindy Vernall,7213 Haas Point
+705,Gasoline,7059.09,4.91,34660.1319,Bosnia and Herzegovina,China,Pipeline,7/23/2022,1/21/2022,Colan Huke,Mei Prosek,65781 Roxbury Point
+706,Heating Oil,9814.49,3.48,34154.4252,China,China,Tank Truck,9/7/2022,9/10/2022,Linn Knibb,Thomas McSharry,340 Barby Point
+707,Gasoline,4095.95,4.24,17366.828,Kazakhstan,China,Ship,1/13/2022,5/7/2022,Barbara-anne Readshaw,Lydie Arney,54 Texas Trail
+708,Heating Oil,7079.43,4.25,30087.5775,Sweden,Peru,Ship,3/24/2022,8/11/2022,Nikolaos Beahan,Avictor Milner,50 Pennsylvania Plaza
+709,Diesel,9703.86,4.51,43764.4086,China,Iran,Pipeline,9/5/2022,6/2/2022,Petronilla Frain,Libbi Franklyn,8598 Monica Junction
+710,Heating Oil,1080.27,2.83,3057.1641,China,Russia,Ship,8/20/2022,9/29/2022,Ariela Semour,Corenda Imason,398 Colorado Road
+711,Gasoline,3611.48,4.56,16468.3488,United States,China,Pipeline,7/24/2022,3/21/2022,Katine Condie,Lauree Quinton,4 Bluejay Trail
+712,Gasoline,7233.44,4.18,30235.7792,Czech Republic,China,Ship,11/16/2022,2/6/2022,Angy Flegg,Meridel Swinyard,251 Brickson Park Terrace
+713,Heating Oil,6320.95,4.7,29708.465,United States,Latvia,Pipeline,5/31/2022,5/17/2022,Noella Jellard,Kimble Pleager,44 Northridge Avenue
+714,Heating Oil,7883.13,4.66,36735.3858,Indonesia,Guatemala,Pipeline,9/10/2022,6/9/2022,Kinna Stut,Hilary Josselsohn,922 Birchwood Alley
+715,Heating Oil,5336.89,1.08,5763.8412,Indonesia,South Korea,Pipeline,1/7/2022,12/1/2022,Rip Willshere,Leticia Dyte,47 Gulseth Trail
+716,Diesel,6439.81,3.45,22217.3445,Madagascar,Russia,Tank Truck,1/1/2022,5/26/2022,Flss Deer,Rriocard Hawe,579 Thackeray Lane
+717,Heating Oil,4271.12,3.62,15461.4544,Indonesia,Portugal,Tank Truck,1/23/2022,1/23/2022,Clem Reekie,Wren Leggan,7 Manitowish Hill
+718,Gasoline,6883.88,2.49,17140.8612,Colombia,Burkina Faso,Ship,4/5/2022,7/9/2022,Monty Sales,Cacilia Ianizzi,2 Magdeline Hill
+719,Heating Oil,9130.34,1.78,16252.0052,Croatia,Russia,Pipeline,7/30/2022,2/25/2022,Ninetta Masse,Errol Pablos,1 Troy Hill
+720,Diesel,995.6,2.17,2160.452,Indonesia,Indonesia,Pipeline,2/24/2022,11/15/2022,Livvie Asprey,Lorry McComiskie,79 Ohio Park
+721,Gasoline,4374.15,1.06,4636.599,Bulgaria,China,Ship,5/1/2022,5/11/2022,Sascha Moat,Palm Gye,5 Parkside Alley
+722,Heating Oil,3163.06,2.28,7211.7768,Ireland,Indonesia,Pipeline,1/7/2022,10/7/2022,Leora Habbeshaw,Jamaal Dilley,1492 Donald Court
+723,Heating Oil,4723.65,4.34,20500.641,China,China,Tank Truck,5/28/2022,12/3/2022,Correy Corbridge,Abbie Thay,112 Miller Junction
+724,Gasoline,8669.94,2.83,24535.9302,Mongolia,Poland,Pipeline,3/2/2022,5/13/2022,Alleen Milstead,Lester Pitkins,25862 Grim Street
+725,Diesel,4084.42,3.48,14213.7816,China,Colombia,Tank Truck,10/13/2022,8/28/2022,Gigi Ulster,Bethena Van den Velde,46 Meadow Valley Court
+726,Diesel,6136.6,2.11,12948.226,China,New Zealand,Tank Truck,9/11/2022,11/4/2022,Ahmed Malshinger,Halsy Dalgardno,044 Pond Avenue
+727,Gasoline,7225.29,1.02,7369.7958,Iran,United States,Ship,3/31/2022,5/30/2022,Robinson Spritt,Derwin Brekonridge,53 Troy Place
+728,Heating Oil,9923.23,1.9,18854.137,Croatia,Russia,Tank Truck,4/17/2022,5/12/2022,Lishe Tilberry,Nancee Belf,7 Duke Parkway
+729,Gasoline,3607.52,3.49,12590.2448,Poland,Indonesia,Pipeline,11/26/2022,4/2/2022,Rodie Frizzell,Kira O'Brallaghan,70717 Summerview Street
+730,Heating Oil,1172.9,4.5,5278.05,Haiti,Germany,Tank Truck,5/2/2022,1/5/2022,Wain McNee,Lillian Blazynski,94611 Loeprich Lane
+731,Heating Oil,8145.21,2.51,20444.4771,France,Philippines,Tank Truck,11/12/2022,2/19/2022,Coralyn Argrave,Bunnie Blunsom,71941 Dwight Point
+732,Diesel,6583.28,2.4,15799.872,Russia,Vietnam,Pipeline,5/1/2022,10/23/2022,Jessamyn Worsfold,Ernst Hearl,4965 Express Pass
+733,Heating Oil,8190.8,4.92,40298.736,Indonesia,Brazil,Tank Truck,3/14/2022,3/25/2022,Obadias Ruzek,Reginauld Shurrock,84556 Garrison Circle
+734,Gasoline,1012.74,1.75,1772.295,Kazakhstan,Japan,Pipeline,8/11/2022,12/29/2022,Gwendolen Jellicorse,Estevan Isac,91304 Dixon Terrace
+735,Heating Oil,8006.13,3.27,26180.0451,Argentina,Tanzania,Pipeline,3/3/2022,10/27/2022,Jermayne Spatari,Vivianna Firbank,5114 School Alley
+736,Diesel,5722.71,4.02,23005.2942,Canada,Dominican Republic,Tank Truck,6/20/2022,12/21/2022,Ermina Venart,Kellsie Cattroll,73390 Anzinger Court
+737,Diesel,447.8,4.93,2207.654,China,Indonesia,Tank Truck,7/3/2022,10/21/2022,Hobie Gligoraci,Hersh Stanlack,4 Westerfield Alley
+738,Heating Oil,1569.66,1.85,2903.871,Venezuela,Russia,Tank Truck,1/14/2022,1/14/2022,Gaven Stubbes,Caresa Wolledge,301 Ridgeway Park
+739,Diesel,6857.27,4.67,32023.4509,Philippines,China,Tank Truck,9/21/2022,7/7/2022,Lolly Wannop,Rowney Helix,5126 Delladonna Junction
+740,Diesel,5284.75,2.77,14638.7575,Cuba,China,Ship,11/11/2022,2/1/2022,Selene Ivanishchev,Ewen Grubbe,20 Hoffman Drive
+741,Heating Oil,4260.05,4.31,18360.8155,Poland,Ukraine,Ship,2/14/2022,6/22/2022,Bron Daniellot,Carter Ody,71290 Prairieview Avenue
+742,Heating Oil,9342.71,4.03,37651.1213,Indonesia,China,Pipeline,6/5/2022,5/2/2022,Raoul Wenn,Hanna Shakelade,7137 Victoria Parkway
+743,Heating Oil,7268.87,3.94,28639.3478,United States,Palestinian Territory,Pipeline,3/17/2022,4/22/2022,Quinta Walework,Verile Siss,380 Hansons Place
+744,Diesel,9534.4,3.41,32512.304,Russia,Portugal,Pipeline,2/18/2022,2/10/2022,Stacee Jerrans,Karlens Andrys,700 Superior Parkway
+745,Gasoline,2038.96,3.57,7279.0872,Bulgaria,China,Pipeline,10/21/2022,12/18/2022,Elie Stearndale,James Venners,99426 Susan Park
+746,Heating Oil,931.57,4.04,3763.5428,Dominican Republic,France,Pipeline,10/2/2022,7/22/2022,Emera Ordelt,Ruby Murcott,541 Hermina Avenue
+747,Gasoline,5135.55,4.48,23007.264,Laos,Hungary,Tank Truck,7/1/2022,6/4/2022,Fowler Halsho,Orran Stemson,2 Michigan Center
+748,Heating Oil,1039.83,3.33,3462.6339,Philippines,Morocco,Pipeline,4/3/2022,9/27/2022,Adelice Macklam,Ancell Aburrow,056 Shoshone Circle
+749,Diesel,7664.34,2.8,21460.152,Pakistan,Portugal,Tank Truck,9/21/2022,7/31/2022,Murdoch Leverington,Marinna Hallard,6552 Mariners Cove Way
+750,Diesel,8896.28,1.2,10675.536,Kenya,France,Ship,6/16/2022,12/29/2022,Octavia Kigelman,Davine Grindle,6 Bunker Hill Road
+751,Gasoline,1016.13,1.22,1239.6786,Poland,China,Ship,5/1/2022,4/22/2022,Desdemona Lutz,Ramsey Gors,93191 Lakeland Park
+752,Gasoline,9237.28,4.07,37595.7296,North Korea,China,Pipeline,2/15/2022,5/5/2022,Clarette Battersby,Keeley Domingues,09980 Annamark Pass
+753,Diesel,2064.54,1.28,2642.6112,Finland,Argentina,Tank Truck,11/23/2022,6/29/2022,Alexandr Le feaver,Kaylil Beatey,72 Mayfield Terrace
+754,Gasoline,5919.53,2.54,15035.6062,Sri Lanka,Cuba,Tank Truck,8/8/2022,6/20/2022,Jarrett Roebottom,Susanna Reichelt,96009 Mendota Drive
+755,Gasoline,4593.48,2.51,11529.6348,South Africa,Greece,Pipeline,7/24/2022,8/9/2022,Marya Hartnup,Nerti Leban,73 Katie Junction
+756,Diesel,7117.37,1.66,11814.8342,Japan,France,Ship,2/4/2022,11/21/2022,Laird Rustan,Dallon Clifford,3618 Vahlen Lane
+757,Heating Oil,3327.4,2.85,9483.09,Thailand,Russia,Ship,4/2/2022,11/16/2022,Ulrikaumeko Groneway,Jessika Grece,8889 Fremont Plaza
+758,Diesel,7644.19,1.78,13606.6582,Peru,Mexico,Ship,3/3/2022,12/30/2022,Kaile Mounce,Merill Flory,45 Colorado Crossing
+759,Gasoline,3992.61,4.72,18845.1192,Portugal,Norway,Pipeline,11/10/2022,6/23/2022,Cesar Blackader,Dwain Svanini,0750 Elmside Way
+760,Gasoline,492.44,1.45,714.038,Nigeria,China,Pipeline,10/25/2022,10/22/2022,Eran Skain,Lorie Byers,882 Luster Drive
+761,Gasoline,1247.9,2.54,3169.666,France,Gambia,Tank Truck,1/19/2022,7/16/2022,Jacintha Asel,Mayor Abotson,2686 Northridge Alley
+762,Diesel,2154.4,3.51,7561.944,Croatia,Iran,Ship,3/25/2022,11/19/2022,Lotty Chaster,Karlen Burnitt,9858 Oxford Street
+763,Heating Oil,8645.67,1.35,11671.6545,Jordan,Indonesia,Ship,11/22/2022,2/8/2022,Lissa Cherry Holme,Aurelea Dawidsohn,8498 Maple Plaza
+764,Gasoline,2525.31,1.14,2878.8534,Gabon,China,Tank Truck,11/20/2022,5/6/2022,Karlene Bushnell,Amil Hebbs,63 Harbort Lane
+765,Gasoline,8826.18,2.67,23565.9006,France,China,Tank Truck,12/24/2022,11/3/2022,Sibyl Lorek,Zebulon Sibbet,956 Moulton Trail
+766,Gasoline,2984.05,1.54,4595.437,China,China,Tank Truck,12/9/2022,5/29/2022,Sayers Fetterplace,Ody Ezzle,98 Burrows Street
+767,Diesel,1993.4,2.03,4046.602,Mexico,Poland,Ship,9/9/2022,11/28/2022,Christiane Rallin,Billi Clabburn,07 Swallow Road
+768,Heating Oil,7714.51,2.82,21754.9182,Italy,Nigeria,Tank Truck,10/12/2022,4/6/2022,Melodie Losano,Ericka Biasioli,5463 Butternut Terrace
+769,Heating Oil,249.2,2.61,650.412,Indonesia,China,Tank Truck,6/6/2022,12/11/2022,Waneta O' Clovan,Dorey Inkpin,52105 Reinke Park
+770,Diesel,7275.14,1.59,11567.4726,Uganda,Indonesia,Pipeline,11/18/2022,5/12/2022,Jackquelin Ovendon,Janaye Thaxter,6814 Summer Ridge Street
+771,Gasoline,1283.97,4.29,5508.2313,Philippines,Indonesia,Ship,2/15/2022,4/1/2022,Gigi Demogeot,Ertha Steinhammer,7265 Paget Place
+772,Gasoline,4068.69,4.16,16925.7504,Serbia,Ecuador,Pipeline,11/28/2022,3/21/2022,Benita Carlan,Ulrikaumeko Sirmond,3 Mayer Circle
+773,Gasoline,3432.6,4.77,16373.502,China,China,Pipeline,7/28/2022,1/28/2022,Maud Strangeways,Nahum Brain,74 Comanche Road
+774,Gasoline,2783.39,1.49,4147.2511,Micronesia,Peru,Ship,4/28/2022,10/11/2022,Dorotea Masding,Earvin Winkell,156 Ridgeview Drive
+775,Gasoline,1571.44,3.34,5248.6096,Portugal,Croatia,Tank Truck,2/11/2022,12/27/2022,Wilhelm Aukland,Alfred Perell,83 Forest Dale Circle
+776,Diesel,6410.33,2.04,13077.0732,South Korea,Philippines,Ship,7/15/2022,6/3/2022,Tracie Just,Bart Hearson,19138 Anthes Way
+777,Diesel,6010.87,4.15,24945.1105,Senegal,Philippines,Pipeline,9/25/2022,2/5/2022,Emmit Brasse,Anne-corinne O'Cooney,29261 Wayridge Parkway
+778,Gasoline,8446.35,1.15,9713.3025,Portugal,China,Pipeline,8/4/2022,5/30/2022,Betsy Gueste,Olav Killwick,902 Northview Drive
+779,Diesel,8920.19,3.98,35502.3562,Malaysia,China,Tank Truck,12/6/2022,2/18/2022,Arie Charlton,Agretha Vasentsov,59 Magdeline Park
+780,Heating Oil,1645.15,3.02,4968.353,Uganda,Russia,Pipeline,6/26/2022,9/11/2022,Nappie Paddefield,Isidoro O'Conor,187 Old Gate Drive
+781,Heating Oil,8047.81,2.54,20441.4374,Cuba,Portugal,Ship,11/23/2022,3/30/2022,Alida Roback,Port Tuddenham,553 Trailsway Center
+782,Diesel,5803.54,2.69,15611.5226,Colombia,Indonesia,Tank Truck,5/22/2022,3/25/2022,Chrissie La Grange,Leela Lacky,0 Holmberg Alley
+783,Gasoline,5496.75,4.78,26274.465,Benin,Greece,Pipeline,2/3/2022,3/25/2022,Trish Guise,Anselm Danskine,04296 Johnson Crossing
+784,Diesel,8178.16,3.16,25842.9856,Indonesia,Guinea,Tank Truck,5/25/2022,6/29/2022,Isidoro Glavin,Estevan Ellson,63133 6th Street
+785,Diesel,6899.46,2.64,18214.5744,Ireland,Azerbaijan,Pipeline,9/17/2022,1/8/2022,Burty Rossant,Leena Muggleton,339 Bonner Alley
+786,Diesel,7172.36,3.73,26752.9028,Russia,Portugal,Tank Truck,2/27/2022,6/26/2022,Ronnie Epine,Thorny Coan,76 Harper Plaza
+787,Gasoline,7450.47,4.81,35836.7607,China,Ukraine,Pipeline,11/13/2022,9/12/2022,Alexi Colleymore,Heidi Dislee,80 Charing Cross Parkway
+788,Gasoline,8458.52,3.42,28928.1384,China,Norway,Tank Truck,5/5/2022,8/14/2022,Ruthanne Tolefree,Therine Willows,779 Talmadge Crossing
+789,Heating Oil,4958.58,4.52,22412.7816,Venezuela,Canada,Ship,11/26/2022,8/11/2022,Emmerich Chapple,Gerard Mears,0 Canary Parkway
+790,Gasoline,1989.17,1.27,2526.2459,Afghanistan,Czech Republic,Pipeline,6/25/2022,5/31/2022,Den Danielian,Bettye Vandrill,699 Pepper Wood Road
+791,Gasoline,4442.8,2.51,11151.428,Japan,China,Ship,6/20/2022,3/1/2022,Cybil Masey,Talbot Gratten,610 Namekagon Crossing
+792,Heating Oil,5845.34,2.61,15256.3374,China,Ghana,Tank Truck,11/13/2022,1/12/2022,Durand Winters,Allison Brenstuhl,52 Evergreen Alley
+793,Heating Oil,1315.28,1.24,1630.9472,Argentina,Indonesia,Ship,10/17/2022,7/25/2022,Dara Ravel,Onfroi Rosbotham,5 Goodland Lane
+794,Gasoline,7544.19,4.08,30780.2952,Peru,Honduras,Ship,9/22/2022,4/30/2022,Kayle Hillam,Marwin Trim,60461 Roth Junction
+795,Diesel,1818.26,1.44,2618.2944,Indonesia,China,Ship,9/16/2022,8/15/2022,Rice Moggach,Rafferty Patsall,247 Sullivan Trail
+796,Diesel,5034.58,1.71,8609.1318,China,Venezuela,Tank Truck,5/23/2022,9/27/2022,Taber Littefair,Jay Thynne,82 Maple Road
+797,Diesel,4363.85,4.61,20117.3485,Poland,Colombia,Ship,10/11/2022,8/1/2022,Reginald Udy,Kasper Witcher,01 Fairfield Drive
+798,Gasoline,9907.46,3.68,36459.4528,Russia,Brazil,Ship,7/7/2022,12/28/2022,Wilhelmina Dadge,Luisa Gammet,6 Sherman Parkway
+799,Diesel,7918.16,2.95,23358.572,China,Indonesia,Ship,4/18/2022,7/16/2022,Maren Lummasana,Filippo Greensitt,25 Holmberg Court
+800,Gasoline,4683.78,1.9,8899.182,Indonesia,Cyprus,Pipeline,10/31/2022,4/21/2022,Rosalie Thursfield,Irina Puddle,8 Ludington Lane
+801,Heating Oil,9017.44,3.75,33815.4,China,Russia,Pipeline,2/3/2022,5/6/2022,Dukey Labrow,Kali Thomton,2 Sachtjen Parkway
+802,Diesel,3503.59,1.02,3573.6618,Brazil,Hungary,Ship,1/9/2022,11/14/2022,Ellis Blacklawe,Alla Dreigher,27949 Kings Terrace
+803,Heating Oil,1941.41,2.83,5494.1903,Croatia,Nigeria,Tank Truck,1/31/2022,7/22/2022,Trix Bishop,Bank Matous,30459 Mandrake Drive
+804,Heating Oil,3726.33,2.67,9949.3011,Peru,Argentina,Ship,9/28/2022,12/13/2022,Adrian Delos,Thornie Wavell,112 Arkansas Way
+805,Diesel,1654.37,1.44,2382.2928,Argentina,Ecuador,Pipeline,8/14/2022,12/26/2022,Svend Kelloch,Raffarty Whitlaw,0592 Michigan Center
+806,Diesel,5839.03,3.75,21896.3625,Poland,Poland,Ship,1/22/2022,6/7/2022,Kelly Bundy,Obidiah Killeen,436 Oriole Terrace
+807,Heating Oil,4789.94,3.92,18776.5648,Italy,Bolivia,Ship,9/5/2022,7/17/2022,Alejandrina Drains,Alayne Pollington,589 Waubesa Way
+808,Gasoline,8635.63,1.02,8808.3426,Syria,China,Tank Truck,3/31/2022,9/15/2022,Mirna Bows,Anna-diana McClinton,1104 Meadow Ridge Terrace
+809,Heating Oil,5036.29,2.57,12943.2653,Uruguay,China,Tank Truck,4/14/2022,4/11/2022,Waiter Collen,Christabel Botterell,02713 Spaight Hill
+810,Gasoline,2760.99,4.06,11209.6194,Venezuela,Brazil,Ship,9/17/2022,7/13/2022,Cecil Purshouse,Maggee Hemphall,0 Victoria Terrace
+811,Heating Oil,3207.93,2.05,6576.2565,China,China,Pipeline,7/3/2022,10/21/2022,Clementia Cropp,Jelene Goshawke,4 Meadow Vale Junction
+812,Gasoline,2582.46,2.78,7179.2388,Russia,Costa Rica,Ship,3/26/2022,4/25/2022,Ines Lohmeyer,Robbi Cherrie,64073 Parkside Center
+813,Gasoline,4887.78,2.22,10850.8716,Indonesia,Mauritania,Pipeline,10/3/2022,3/21/2022,Domingo Charlwood,Sheila-kathryn Steade,3 Marcy Park
+814,Gasoline,7792.79,1.43,11143.6897,Uzbekistan,Yemen,Pipeline,10/17/2022,6/20/2022,Missy Elgood,Cosetta Filliskirk,42439 Kensington Avenue
+815,Gasoline,4910.65,3.91,19200.6415,Brazil,France,Tank Truck,12/29/2022,8/24/2022,Octavius Muldowney,Kylen Davydenko,6491 Rowland Alley
+816,Gasoline,1980.44,2.33,4614.4252,Vietnam,Armenia,Tank Truck,7/15/2022,1/10/2022,Christy Sheryn,Guglielma Shackelton,9 Pennsylvania Alley
+817,Heating Oil,7672.2,4.26,32683.572,Togo,Philippines,Pipeline,9/16/2022,8/29/2022,Clive Weatherley,Malva Rosenau,66 Milwaukee Pass
+818,Heating Oil,6111.64,4.61,28174.6604,China,Netherlands,Tank Truck,8/19/2022,4/26/2022,Nanon Banthorpe,Berton Wealleans,8316 Superior Center
+819,Diesel,6936.43,4.55,31560.7565,Argentina,Poland,Ship,10/14/2022,5/6/2022,Lynde Martinovic,Basile Garland,0928 Leroy Pass
+820,Diesel,8994.48,2.56,23025.8688,Indonesia,Portugal,Ship,6/26/2022,8/25/2022,Nessy Solway,Valentino Latore,6586 Sauthoff Lane
+821,Diesel,6004.97,1.11,6665.5167,Slovenia,Russia,Tank Truck,7/13/2022,12/29/2022,Meggi Maskall,Wenda Manklow,3777 Nova Alley
+822,Diesel,1502.55,4.14,6220.557,Indonesia,Indonesia,Tank Truck,12/8/2022,7/12/2022,Demetri Stadding,Terra Huzzey,46440 Bashford Circle
+823,Heating Oil,3856.46,4.42,17045.5532,Brazil,China,Pipeline,10/3/2022,5/30/2022,Tracey Savill,Nathalia Nockles,573 Loomis Crossing
+824,Heating Oil,3788.71,2.2,8335.162,Madagascar,China,Pipeline,9/15/2022,12/27/2022,Garv Dimitrov,Carley MacRierie,52134 Eagan Circle
+825,Heating Oil,5126.72,4.7,24095.584,Indonesia,Poland,Pipeline,11/12/2022,7/12/2022,Tomi Nehlsen,Davina Shropshire,9 Buena Vista Center
+826,Gasoline,1492.73,3.06,4567.7538,Brazil,China,Ship,10/24/2022,7/7/2022,Dareen Spritt,Robyn Hallahan,336 Dwight Point
+827,Diesel,7694.3,2.64,20312.952,China,Portugal,Ship,7/17/2022,10/3/2022,Jamaal MacMechan,Ozzie O'Shirine,1965 Oriole Junction
+828,Diesel,4471.36,4.27,19092.7072,Ghana,Philippines,Pipeline,9/19/2022,12/10/2022,Chrysa Murname,Susy Harness,627 Jenifer Court
+829,Diesel,4027.51,2.95,11881.1545,Indonesia,Indonesia,Tank Truck,2/1/2022,1/23/2022,Zea Guyot,Carri Kernaghan,9281 Delaware Point
+830,Heating Oil,7655.15,2.41,18448.9115,Sweden,Philippines,Ship,2/13/2022,5/11/2022,Shanon Spink,Keri Dauby,181 Fair Oaks Junction
+831,Gasoline,4984.98,3.19,15902.0862,China,Chile,Pipeline,2/25/2022,8/29/2022,Camilla Ilyinski,Parsifal Mountlow,97242 Moulton Street
+832,Diesel,7203.16,3.36,24202.6176,Indonesia,Israel,Ship,8/30/2022,4/6/2022,Marlane Borrington,Merralee Edgeworth,3 3rd Circle
+833,Diesel,141.5,1.19,168.385,China,Chile,Pipeline,6/30/2022,8/15/2022,Jase Stegers,Quentin Thompson,0 Reindahl Alley
+834,Gasoline,240.51,2.9,697.479,Ireland,Indonesia,Pipeline,7/17/2022,10/19/2022,Darrell Tarr,Angelica Gainseford,41895 Lakeland Alley
+835,Diesel,2360.54,3.75,8852.025,Poland,China,Tank Truck,4/21/2022,5/6/2022,Dorotea Vassbender,Anstice Fawloe,4 Talisman Plaza
+836,Diesel,9393.57,2.07,19444.6899,Norway,United States,Tank Truck,7/1/2022,9/24/2022,Garald Plank,Arlana Gerred,37355 Banding Place
+837,Heating Oil,4566.18,3.27,14931.4086,Poland,Philippines,Ship,7/22/2022,1/26/2022,Melinda Corstorphine,Corey Andrejs,83472 Troy Way
+838,Heating Oil,9354.3,4.87,45555.441,Indonesia,France,Ship,7/12/2022,12/2/2022,Consuela Purrier,Shelley Lindstrom,77920 Kings Park
+839,Diesel,6529.52,1.23,8031.3096,Ukraine,Argentina,Ship,7/11/2022,7/21/2022,Aubrey Oriel,Ardath Caunt,9 Bobwhite Place
+840,Heating Oil,3696.97,1.94,7172.1218,Indonesia,Czech Republic,Tank Truck,12/8/2022,9/21/2022,Phyllys Cariss,Nye Grotty,0 Mifflin Alley
+841,Diesel,9014.56,2.08,18750.2848,Malaysia,Indonesia,Ship,6/3/2022,11/3/2022,Mareah Sagar,Caritta Adshede,2587 Susan Street
+842,Gasoline,8743.95,2.65,23171.4675,Sweden,Sweden,Tank Truck,2/19/2022,1/24/2022,Kassie Duckett,Ainsley Petrashov,778 Hoffman Drive
+843,Heating Oil,6819.39,2.88,19639.8432,Poland,Germany,Ship,7/3/2022,2/1/2022,Melisenda Fleischmann,Amata Stuckford,5 Holy Cross Circle
+844,Gasoline,7058.68,4.67,32964.0356,China,China,Ship,1/17/2022,6/26/2022,Erskine Mocker,Malinde Greally,582 Porter Way
+845,Diesel,6207.84,4.32,26817.8688,Sweden,China,Ship,9/2/2022,12/4/2022,Tracey Chubb,Emanuel Meineck,0 Colorado Plaza
+846,Heating Oil,637.59,4.51,2875.5309,Japan,China,Ship,5/7/2022,3/19/2022,Crysta Ripley,Ami Lashford,67027 Loftsgordon Court
+847,Gasoline,8855.87,3.0,26567.61,Russia,Thailand,Pipeline,11/7/2022,10/5/2022,Christie Linden,Drusie Grishin,03 Carioca Hill
+848,Heating Oil,7930.03,3.92,31085.7176,Cyprus,Sweden,Tank Truck,8/24/2022,12/27/2022,Marcelo Sango,Stacy Cochran,37 Everett Drive
+849,Gasoline,3642.14,3.63,13220.9682,Bulgaria,Indonesia,Ship,5/4/2022,9/27/2022,Perrine McLane,Moshe Bengtsen,0 Little Fleur Trail
+850,Heating Oil,5030.42,1.4,7042.588,China,Ivory Coast,Ship,3/13/2022,7/3/2022,Hedy Tippell,Joaquin Jahner,3 Memorial Center
+851,Gasoline,4903.88,4.6,22557.848,Brazil,Uzbekistan,Pipeline,10/28/2022,8/7/2022,Wandie Flecknoe,Jourdan Payle,15 Dennis Park
+852,Gasoline,9546.61,4.55,43437.0755,Democratic Republic of the Congo,Russia,Pipeline,3/18/2022,7/20/2022,Kelly Drakeley,Dagmar Lyvon,61942 Glacier Hill Point
+853,Diesel,220.02,4.51,992.2902,Indonesia,China,Ship,12/28/2022,12/24/2022,Shermie Greswell,Xerxes Wasiela,12995 Stang Pass
+854,Heating Oil,2119.88,2.02,4282.1576,Argentina,Greece,Tank Truck,3/26/2022,10/22/2022,Audie Skrzynski,Hamlen Rosnau,3 Maple Junction
+855,Heating Oil,9774.54,4.3,42030.522,Kazakhstan,Indonesia,Tank Truck,10/7/2022,5/13/2022,Brod Height,Phineas Carcass,70611 Morningstar Point
+856,Gasoline,1128.62,4.43,4999.7866,Brazil,Portugal,Pipeline,2/8/2022,3/18/2022,Gale Hubball,Maure Pilpovic,15 Hudson Alley
+857,Diesel,3308.33,2.93,9693.4069,Indonesia,China,Pipeline,7/10/2022,10/1/2022,Wallache Yesichev,Bertine Schleicher,997 Wayridge Pass
+858,Heating Oil,9388.17,2.39,22437.7263,China,France,Ship,8/8/2022,8/29/2022,Alvie Reboul,Pepi Kolczynski,17818 Parkside Terrace
+859,Gasoline,6641.84,3.71,24641.2264,Spain,Poland,Ship,10/5/2022,12/19/2022,Sarah De'Vere - Hunt,Larine O' Byrne,741 Thompson Center
+860,Diesel,1598.36,2.59,4139.7524,Philippines,Haiti,Tank Truck,11/2/2022,7/12/2022,Tierney Baribal,Ynes Groucutt,7852 Kipling Crossing
+861,Diesel,4613.97,4.67,21547.2399,Luxembourg,Philippines,Pipeline,10/5/2022,7/25/2022,Brear Clace,Adel Bunn,3 Michigan Court
+862,Heating Oil,8598.6,4.19,36028.134,Norway,Peru,Tank Truck,9/5/2022,1/11/2022,Lucio Baynom,Carlotta Mousdall,57675 Menomonie Way
+863,Heating Oil,5258.22,3.33,17509.8726,Thailand,China,Pipeline,7/19/2022,1/19/2022,Avery Ketch,Alta Kirimaa,53812 Ridgeview Way
+864,Heating Oil,5456.4,1.97,10749.108,Russia,China,Tank Truck,1/30/2022,5/22/2022,El Broadbent,Brinna Dobble,12 Petterle Crossing
+865,Heating Oil,9354.88,4.85,45371.168,Indonesia,China,Ship,5/9/2022,12/23/2022,Erica Micheu,Chancey Maddern,58 Sloan Junction
+866,Diesel,4277.74,4.71,20148.1554,Uganda,United States,Pipeline,10/28/2022,10/29/2022,Humberto Duddell,Guglielma Dixcee,002 Monica Crossing
+867,Diesel,6156.84,2.18,13421.9112,China,Panama,Tank Truck,7/23/2022,4/30/2022,Guillaume Drohane,Syd Thirkettle,29 Sullivan Lane
+868,Heating Oil,6285.48,3.84,24136.2432,New Zealand,Russia,Pipeline,11/7/2022,4/29/2022,Staci Schoolfield,Chariot Gaitley,1 Eagan Park
+869,Diesel,4886.9,1.96,9578.324,Indonesia,China,Pipeline,3/14/2022,11/20/2022,Berrie Gonzalo,Carry Appleyard,827 Butterfield Lane
+870,Heating Oil,4651.45,3.19,14838.1255,China,Indonesia,Tank Truck,7/16/2022,7/13/2022,Addie Dawes,Lance Workman,899 Carey Pass
+871,Gasoline,2568.97,1.48,3802.0756,Italy,Denmark,Tank Truck,1/9/2022,3/26/2022,Ellary Piolli,Amble Doram,4 Helena Parkway
+872,Gasoline,5373.83,2.92,15691.5836,Canada,Poland,Tank Truck,8/26/2022,10/27/2022,Corilla Moy,Tiffany Swiggs,920 Shopko Lane
+873,Heating Oil,2203.2,2.88,6345.216,Puerto Rico,China,Pipeline,10/30/2022,2/13/2022,Jerrylee Izzatt,Emerson Jobes,54349 Golf Center
+874,Gasoline,3273.22,3.17,10376.1074,Pakistan,North Korea,Tank Truck,7/16/2022,5/19/2022,Asia Pepys,Guinna Brimman,3919 Weeping Birch Hill
+875,Gasoline,2468.5,3.7,9133.45,China,Morocco,Pipeline,8/15/2022,9/2/2022,Brandise Neising,Loretta Pacher,7325 Village Green Point
+876,Diesel,9793.62,3.01,29478.7962,Poland,Botswana,Pipeline,10/9/2022,7/31/2022,Heinrick Hector,Fonz Mulvihill,008 West Avenue
+877,Heating Oil,4524.85,1.91,8642.4635,Brazil,Sweden,Pipeline,5/27/2022,10/15/2022,Dalila Jelkes,Adorne Thickens,7 Vera Circle
+878,Heating Oil,9327.05,3.83,35722.6015,Philippines,China,Pipeline,9/7/2022,4/27/2022,Dulcinea Pren,Niall Stutt,44 Annamark Way
+879,Gasoline,8953.93,4.79,42889.3247,Brazil,China,Pipeline,3/16/2022,2/23/2022,Sax Samways,Cassandre Richfield,3 Westridge Lane
+880,Diesel,3183.31,4.37,13911.0647,China,France,Pipeline,3/10/2022,8/7/2022,Guss Swinfon,Ronalda Haisell,245 Northridge Crossing
+881,Diesel,5992.3,1.03,6172.069,Greece,China,Ship,11/18/2022,11/7/2022,Jilleen Bosenworth,Janina Whitticks,47319 Schurz Pass
+882,Gasoline,2442.59,3.53,8622.3427,Czech Republic,China,Ship,12/16/2022,11/17/2022,Mozes Itzakovitz,Starlin Joron,03364 Hoepker Point
+883,Diesel,7339.7,1.39,10202.183,France,Serbia,Pipeline,1/24/2022,3/17/2022,Sherlocke Lampett,Layne Hawkins,75 Fuller Point
+884,Gasoline,8546.97,4.03,34444.2891,Iran,China,Ship,1/2/2022,5/10/2022,Konstantin Artingstall,Tori Pinkstone,80 Starling Alley
+885,Gasoline,1689.45,4.19,7078.7955,Yemen,Russia,Tank Truck,9/17/2022,4/3/2022,Lorette Minghetti,Tamas D'Antonio,4 Shasta Parkway
+886,Heating Oil,1707.92,4.71,8044.3032,France,Japan,Ship,9/21/2022,11/20/2022,Giorgia Terren,Beau Dimic,06683 Holmberg Avenue
+887,Gasoline,9363.02,4.28,40073.7256,San Marino,China,Pipeline,3/9/2022,6/7/2022,Brinn Groveham,Alfie Klimentyev,1730 Petterle Crossing
+888,Gasoline,122.67,1.63,199.9521,Philippines,Comoros,Ship,1/1/2022,12/19/2022,Rogerio O'Harney,Natassia Gratrix,8 Transport Avenue
+889,Gasoline,9354.23,2.4,22450.152,Costa Rica,China,Pipeline,3/29/2022,3/20/2022,Sly Costin,Oona Pietrasik,07039 Del Mar Terrace
+890,Heating Oil,4057.28,4.7,19069.216,Poland,East Timor,Ship,10/21/2022,9/21/2022,Gisele Dwerryhouse,Giovanna Terese,4 Fulton Parkway
+891,Diesel,9406.92,3.82,35934.4344,Indonesia,Sweden,Ship,10/14/2022,2/2/2022,Betsey Townes,Hilary Gerwood,58915 Morning Street
+892,Heating Oil,857.11,3.04,2605.6144,Indonesia,Cameroon,Tank Truck,8/12/2022,7/26/2022,Susanna Ells,Roarke Ladon,2 Lerdahl Parkway
+893,Diesel,7082.28,1.54,10906.7112,China,Colombia,Tank Truck,2/28/2022,9/21/2022,Sharline Westmerland,Allina Sapson,4 Hallows Alley
+894,Gasoline,8682.41,1.69,14673.2729,Philippines,Indonesia,Ship,1/10/2022,8/18/2022,Vanya Locarno,Carmen Porkiss,2432 Claremont Street
+895,Gasoline,9575.22,3.35,32076.987,Mexico,Indonesia,Tank Truck,1/7/2022,3/23/2022,Avivah Kilford,Thorvald Dahmel,04603 Nova Road
+896,Diesel,3922.73,4.65,18240.6945,Russia,North Korea,Ship,7/25/2022,6/1/2022,Bren Tschursch,Ephraim Rickasse,1137 Lyons Crossing
+897,Diesel,958.54,1.28,1226.9312,Sweden,Madagascar,Tank Truck,2/11/2022,10/19/2022,Yettie Hugonin,Mariann Sumbler,1 Veith Alley
+898,Gasoline,681.78,4.99,3402.0822,Serbia,South Korea,Tank Truck,5/15/2022,1/12/2022,Cullen Llop,Rena Riolfo,7142 American Pass
+899,Diesel,8348.76,1.85,15445.206,South Africa,Morocco,Ship,6/4/2022,10/25/2022,Deerdre Prynne,Chaddie Gantzer,2 Northridge Point
+900,Diesel,4653.93,4.67,21733.8531,Peru,Bolivia,Ship,3/7/2022,8/7/2022,Marcille Askham,Rolland Eadon,47504 Harbort Court
+901,Gasoline,6340.46,4.46,28278.4516,China,Ukraine,Ship,8/31/2022,8/3/2022,Minta Mandeville,Kippar Habbon,50033 Hoard Terrace
+902,Gasoline,2294.73,2.97,6815.3481,Poland,Russia,Tank Truck,10/28/2022,10/15/2022,Leighton Harwick,Korie Steffan,6 Harper Place
+903,Gasoline,8168.48,2.71,22136.5808,Russia,China,Ship,10/20/2022,12/15/2022,Gustav Manston,Beverly Leftley,82 Meadow Vale Point
+904,Diesel,9629.4,1.44,13866.336,Kosovo,Sweden,Pipeline,8/3/2022,9/27/2022,Sig Collick,Morgana Laurant,93796 Summit Circle
+905,Heating Oil,343.94,4.05,1392.957,Philippines,Senegal,Tank Truck,7/24/2022,10/4/2022,Ezra Dudney,Lars Gallaher,10533 Transport Point
+906,Heating Oil,874.48,2.35,2055.028,Venezuela,Venezuela,Tank Truck,7/23/2022,5/15/2022,Ingra Bradberry,Kendre Robard,0998 Mallard Alley
+907,Heating Oil,1201.49,3.78,4541.6322,Thailand,Luxembourg,Tank Truck,9/12/2022,8/27/2022,Allissa Moulsdale,Rochelle Steckings,56547 Green Ridge Drive
+908,Heating Oil,8941.89,3.38,30223.5882,South Korea,China,Tank Truck,12/11/2022,4/26/2022,Rutger Brennans,Demetris Pyke,98820 Elka Way
+909,Heating Oil,8937.42,2.74,24488.5308,Philippines,Yemen,Ship,9/7/2022,1/4/2022,Hakeem Nicholson,Kristin Romi,49 Redwing Pass
+910,Diesel,9701.28,1.46,14163.8688,Bulgaria,Egypt,Pipeline,8/25/2022,5/18/2022,Eugene Roulston,Lettie Vignaux,462 American Ash Place
+911,Gasoline,2564.56,2.38,6103.6528,Mexico,Greece,Tank Truck,3/10/2022,9/28/2022,Joshia Shawe,Carlie Lauks,0421 Morningstar Parkway
+912,Diesel,9994.3,4.37,43675.091,United States,China,Ship,7/26/2022,9/29/2022,Ly Brunesco,Linet O'Sharkey,82370 Mandrake Drive
+913,Gasoline,8744.21,2.76,24134.0196,Syria,Russia,Tank Truck,8/3/2022,9/11/2022,Thedric Hengoed,Shawna Rainger,398 Caliangt Center
+914,Gasoline,338.94,3.48,1179.5112,Portugal,Austria,Ship,7/9/2022,12/26/2022,Clemence Midden,Maryl Joynt,16272 Linden Crossing
+915,Gasoline,7476.53,1.74,13009.1622,Colombia,Mexico,Pipeline,12/11/2022,3/3/2022,Debera Stanlack,Zollie Greated,40450 Magdeline Parkway
+916,Gasoline,7294.95,4.15,30274.0425,China,Russia,Ship,6/8/2022,4/4/2022,Marget Preshaw,Alis Lewington,3304 Oak Valley Point
+917,Diesel,5094.99,1.47,7489.6353,Canada,Indonesia,Ship,6/26/2022,7/9/2022,Jehu Dunkerton,Pam Shirer,865 Stone Corner Drive
+918,Gasoline,2754.98,1.18,3250.8764,Indonesia,Japan,Ship,2/21/2022,2/4/2022,Dolph Bischop,Vinny Brason,33 Green Terrace
+919,Diesel,4345.54,4.58,19902.5732,Brazil,Portugal,Tank Truck,9/1/2022,8/25/2022,Malvin Paddison,Grady Dumingo,20775 Dixon Parkway
+920,Gasoline,3541.69,4.37,15477.1853,Indonesia,China,Ship,6/27/2022,12/20/2022,Alta Gligorijevic,Christyna Davisson,5645 Scoville Road
+921,Heating Oil,337.69,1.37,462.6353,France,Mozambique,Pipeline,5/26/2022,10/5/2022,Kelcey Worsell,Sherm Manilove,675 Sommers Avenue
+922,Diesel,8278.26,4.41,36507.1266,China,Sweden,Tank Truck,5/13/2022,8/3/2022,Siobhan Boolsen,Barry Moye,0753 Tennyson Park
+923,Heating Oil,6193.92,1.03,6379.7376,China,Portugal,Pipeline,8/21/2022,6/16/2022,Rosabella Motton,Oneida Ginty,1393 Melvin Pass
+924,Gasoline,2289.87,4.78,10945.5786,China,Azerbaijan,Tank Truck,3/30/2022,5/16/2022,Richy Wilcockes,Otes Cowley,0559 Autumn Leaf Pass
+925,Heating Oil,7275.21,2.25,16369.2225,Indonesia,China,Pipeline,8/24/2022,7/12/2022,Alvin Iacovelli,Charlton Collinette,1 Heffernan Pass
+926,Gasoline,9731.93,3.0,29195.79,Poland,Brazil,Ship,9/25/2022,5/22/2022,Amelina Clague,Drusie McGeachie,31 Oakridge Parkway
+927,Gasoline,4293.65,3.49,14984.8385,Malta,New Zealand,Pipeline,6/21/2022,1/8/2022,Andy Stripp,Fletch Maker,504 Westend Plaza
+928,Gasoline,503.45,1.66,835.727,Brazil,China,Pipeline,5/22/2022,5/21/2022,Maribelle Higounet,Andrej Backen,6 Dahle Circle
+929,Gasoline,2239.31,4.53,10144.0743,Argentina,China,Tank Truck,5/7/2022,2/22/2022,Merla Hugonnet,Hannie Starmer,9468 Spenser Trail
+930,Diesel,3477.66,2.83,9841.7778,Indonesia,Peru,Tank Truck,4/22/2022,12/17/2022,Tadd Yerbury,Evangelina Atrill,95236 Moland Junction
+931,Gasoline,1319.72,1.93,2547.0596,China,Sweden,Pipeline,3/6/2022,4/29/2022,Wood Fulk,Mercedes Newby,566 Maywood Parkway
+932,Diesel,1083.22,2.53,2740.5466,China,Costa Rica,Tank Truck,10/18/2022,9/18/2022,Bethany Eland,Mychal McBrady,486 Summer Ridge Point
+933,Diesel,3952.44,2.09,8260.5996,Ukraine,Poland,Pipeline,1/6/2022,9/12/2022,Almira Cadle,Yancy Overel,26 Clemons Junction
+934,Heating Oil,8360.61,4.04,33776.8644,Portugal,Uganda,Ship,4/26/2022,3/5/2022,Lotta Rome,Cornie Simka,51032 American Ash Parkway
+935,Heating Oil,5907.57,4.84,28592.6388,France,Ukraine,Pipeline,4/22/2022,6/7/2022,Mildrid Olivetti,Torey Richemont,76 Lunder Park
+936,Heating Oil,7620.98,3.44,26216.1712,Canada,China,Pipeline,2/15/2022,5/9/2022,Chicky Sells,Jerad Devigne,943 Esker Place
+937,Gasoline,4142.98,3.76,15577.6048,Mongolia,Brazil,Pipeline,9/23/2022,12/10/2022,Warden Loughan,Nicolina Scafe,46566 Bonner Lane
+938,Heating Oil,7577.8,4.55,34478.99,Vietnam,Italy,Tank Truck,9/27/2022,5/31/2022,Rakel Roofe,Josephina Freyne,2 Clove Hill
+939,Heating Oil,1910.83,1.66,3171.9778,China,Syria,Ship,5/22/2022,8/24/2022,Thatcher Broxup,Frederich Bannester,6110 Dennis Terrace
+940,Diesel,5332.98,1.93,10292.6514,South Africa,Vanuatu,Ship,10/11/2022,8/17/2022,Hinze Bartoszewski,Kenny Sherlock,86716 Warner Street
+941,Diesel,895.4,4.96,4441.184,Tunisia,Indonesia,Pipeline,8/16/2022,6/1/2022,Zeke Hollyard,Charmaine Sprouls,836 Hagan Drive
+942,Heating Oil,4630.77,2.6,12040.002,Belarus,Thailand,Tank Truck,10/11/2022,3/12/2022,Ambrosius Dawdary,Kennett Rapps,12430 Burning Wood Crossing
+943,Gasoline,9243.6,4.98,46033.128,Vietnam,China,Pipeline,12/24/2022,5/2/2022,Vitoria Maffeo,Emelda Rappport,4 Butternut Hill
+944,Heating Oil,9383.42,3.96,37158.3432,China,Portugal,Pipeline,7/19/2022,11/28/2022,Mayor Dolohunty,L;urette Morsley,1497 1st Court
+945,Diesel,7192.38,1.56,11220.1128,Bosnia and Herzegovina,Sweden,Pipeline,7/6/2022,4/10/2022,Biddy Snowdon,Sarena Brumpton,340 Lindbergh Junction
+946,Gasoline,8385.87,2.44,20461.5228,China,Portugal,Tank Truck,8/8/2022,12/11/2022,Cathie Dawidsohn,Suzy Maddicks,404 7th Trail
+947,Heating Oil,9089.33,2.61,23723.1513,Portugal,Togo,Ship,1/10/2022,2/12/2022,Tyson Lydiatt,Warde Cogzell,62935 Sutteridge Plaza
+948,Heating Oil,7682.92,3.27,25123.1484,Indonesia,Nigeria,Pipeline,1/10/2022,12/13/2022,Dilly Chasteau,Gal Clougher,78 Artisan Avenue
+949,Heating Oil,3298.65,3.05,10060.8825,Indonesia,Brazil,Ship,8/25/2022,9/5/2022,Townie Tremmil,Eleanore Westbrook,4340 Iowa Avenue
+950,Gasoline,3620.19,4.81,17413.1139,Colombia,Portugal,Tank Truck,3/26/2022,4/15/2022,Candra Robbey,Erny Konrad,76 Alpine Hill
+951,Diesel,5062.82,4.69,23744.6258,Russia,China,Tank Truck,7/13/2022,8/20/2022,Ivy Gudd,Jamie Pettisall,48 Vera Alley
+952,Heating Oil,879.37,3.93,3455.9241,Palestinian Territory,Canada,Ship,10/2/2022,11/8/2022,Clim Westwick,Shandie Iggo,4413 Novick Parkway
+953,Diesel,9667.89,1.87,18078.9543,China,Morocco,Pipeline,10/3/2022,12/29/2022,Shaina Aslet,Demeter Skryne,95 Spaight Crossing
+954,Diesel,9279.51,2.48,23013.1848,Portugal,China,Pipeline,8/24/2022,1/20/2022,Adoree Duggon,Athena Pawlett,988 Harbort Lane
+955,Gasoline,4645.64,2.94,13658.1816,Albania,France,Tank Truck,11/13/2022,7/17/2022,Geri Iredell,Fabio Pantecost,7 Bunker Hill Avenue
+956,Gasoline,2307.83,4.33,9992.9039,India,China,Tank Truck,1/10/2022,11/27/2022,Rosamond Quincee,Granville Songhurst,01195 Dixon Road
+957,Heating Oil,9784.59,4.72,46183.2648,China,Croatia,Tank Truck,11/22/2022,6/27/2022,Wilhelmina Jordeson,Ethelyn Asty,4870 Claremont Hill
+958,Heating Oil,2065.35,1.6,3304.56,China,China,Pipeline,8/24/2022,2/17/2022,Gaby Swainsbury,Alyson Philps,0846 Lawn Road
+959,Diesel,7508.03,2.95,22148.6885,Norway,Poland,Pipeline,1/30/2022,1/14/2022,Ami Yea,Wilma Canet,34042 Fair Oaks Center
+960,Heating Oil,1816.43,2.59,4704.5537,China,China,Tank Truck,8/7/2022,9/15/2022,Der Drains,Curt Schafer,85448 Rigney Alley
+961,Gasoline,779.62,4.69,3656.4178,South Korea,China,Ship,6/13/2022,10/14/2022,Solly Shortland,Mommy Plitz,2109 Cascade Street
+962,Heating Oil,784.21,2.51,1968.3671,China,United States,Pipeline,8/10/2022,2/3/2022,Mose Tivenan,Baillie Willden,4 Lerdahl Road
+963,Heating Oil,7344.02,4.3,31579.286,Indonesia,Peru,Tank Truck,9/18/2022,3/6/2022,Rowan Ogus,Ebba Coppo,97 Coleman Way
+964,Heating Oil,1518.49,4.44,6742.0956,Australia,United States,Ship,11/6/2022,5/12/2022,Nancy Georgeot,Walden Siddon,5 Prairie Rose Drive
+965,Heating Oil,4663.22,2.42,11284.9924,Afghanistan,Sweden,Pipeline,2/27/2022,1/2/2022,Revkah Order,Gerri Duester,2 3rd Trail
+966,Diesel,3703.51,1.43,5296.0193,Indonesia,Portugal,Tank Truck,8/10/2022,8/20/2022,Krispin Beaze,Andie Terry,7 Milwaukee Crossing
+967,Gasoline,9001.96,1.89,17013.7044,Portugal,Mongolia,Pipeline,3/23/2022,2/23/2022,Marja Davidowsky,Hurlee Bane,85 Nevada Park
+968,Heating Oil,6142.48,1.66,10196.5168,Sweden,China,Ship,11/19/2022,8/25/2022,Cirillo Van den Velde,Gregorio Shallow,6041 Ronald Regan Park
+969,Heating Oil,6760.71,1.61,10884.7431,Guatemala,Sweden,Ship,3/22/2022,9/17/2022,Ashien Pickin,Winslow Salvatore,10019 Hanover Plaza
+970,Gasoline,2516.54,2.95,7423.793,Thailand,Canada,Tank Truck,3/12/2022,7/12/2022,Marve Souza,Percival Redgewell,25929 Corry Alley
+971,Diesel,5338.92,2.26,12065.9592,United States,Latvia,Tank Truck,11/6/2022,8/18/2022,Sheelah Shyram,Dedra Ast,52 Clemons Terrace
+972,Heating Oil,2350.65,1.63,3831.5595,Spain,China,Tank Truck,4/23/2022,11/11/2022,Sofie Lindmark,Georgette Spurett,6 Spenser Circle
+973,Heating Oil,3601.71,1.66,5978.8386,Cuba,Pakistan,Tank Truck,9/21/2022,2/8/2022,Griselda Djokovic,Theodora Blow,2940 7th Parkway
+974,Diesel,4973.1,1.59,7907.229,China,China,Tank Truck,1/29/2022,5/17/2022,Briggs Elder,Ailis Leupold,8 Autumn Leaf Crossing
+975,Gasoline,1129.37,4.61,5206.3957,Poland,Japan,Pipeline,4/1/2022,7/20/2022,Fernando Bundock,Sande Shuttlewood,06 Hoepker Trail
+976,Heating Oil,7832.83,3.39,26553.2937,Ukraine,China,Pipeline,10/24/2022,1/28/2022,Fawn Stubbes,Benson Jordeson,15194 Golf Junction
+977,Heating Oil,4896.94,4.83,23652.2202,China,Egypt,Ship,6/8/2022,3/25/2022,Boris Louthe,Tanner Wiffen,06578 Cherokee Center
+978,Diesel,5473.56,4.42,24193.1352,Indonesia,Indonesia,Ship,1/3/2022,11/14/2022,Anjanette Rives,Claudetta Gowthrop,0 Kingsford Junction
+979,Heating Oil,8419.94,2.03,17092.4782,Thailand,Indonesia,Tank Truck,8/19/2022,8/14/2022,Rosalie Lownds,Maye Rothermel,97 Dayton Crossing
+980,Heating Oil,8646.83,2.65,22914.0995,Vietnam,China,Ship,6/2/2022,1/1/2022,Orsa Sallowaye,Rogerio Hare,014 Hintze Center
+981,Gasoline,3550.55,3.83,13598.6065,Thailand,France,Tank Truck,9/20/2022,3/9/2022,Bren Jeavon,Remus Carluccio,7856 Corscot Pass
+982,Gasoline,6267.21,2.53,15856.0413,Armenia,Syria,Ship,7/17/2022,8/19/2022,Myra Jelleman,Saidee Lemmen,77270 Hayes Terrace
+983,Diesel,9434.15,4.12,38868.698,Czech Republic,France,Ship,7/5/2022,8/19/2022,Monte Doche,Marcus Breache,620 Lakewood Avenue
+984,Heating Oil,8417.25,1.62,13635.945,Venezuela,United Kingdom,Pipeline,10/16/2022,9/15/2022,Porty Deabill,Shanta Brammall,8 Sunnyside Circle
+985,Gasoline,9338.56,1.31,12233.5136,Albania,Sri Lanka,Ship,9/11/2022,9/22/2022,Sallyanne Yashanov,Nelie Teall,57 Springview Drive
+986,Diesel,5681.47,4.7,26702.909,Sweden,China,Tank Truck,5/15/2022,5/11/2022,Roddie Songust,Jacques Sikorsky,3536 Prentice Trail
+987,Gasoline,8804.6,2.76,24300.696,China,Argentina,Ship,9/10/2022,6/3/2022,Reggy Sueter,Darryl Ailsbury,51 Judy Way
+988,Heating Oil,6219.26,1.0,6219.26,China,China,Tank Truck,12/15/2022,9/6/2022,Skipper Ellse,Philipa Minors,9385 Killdeer Point
+989,Heating Oil,2472.06,1.3,3213.678,Indonesia,Venezuela,Tank Truck,1/19/2022,5/21/2022,Brenna Stoacley,Nichole Scramage,88797 Scofield Lane
+990,Gasoline,3585.08,2.33,8353.2364,China,Finland,Pipeline,4/21/2022,8/4/2022,Candi Crews,Allen Bosward,2 Jenna Hill
+991,Gasoline,9280.73,4.56,42320.1288,Argentina,China,Ship,3/4/2022,6/12/2022,Abramo Eliasen,Paolo Luttger,32030 Dahle Terrace
+992,Gasoline,873.9,2.66,2324.574,Finland,Venezuela,Ship,12/6/2022,8/15/2022,Helga McClinton,Shir Drance,28 Transport Plaza
+993,Gasoline,5022.6,4.31,21647.406,Indonesia,Afghanistan,Tank Truck,8/23/2022,12/13/2022,Adrian Tratton,Aron Cullivan,4854 Elgar Road
+994,Heating Oil,9076.76,3.64,33039.4064,Poland,Poland,Pipeline,10/16/2022,6/26/2022,Waylin Moryson,Letty Levick,9270 Sheridan Terrace
+995,Heating Oil,1311.71,3.55,4656.5705,South Korea,Pakistan,Ship,10/18/2022,11/16/2022,Vivi Dow,Devan Hane,0 Mccormick Parkway
+996,Gasoline,7863.85,2.58,20288.733,Brazil,Brazil,Tank Truck,10/17/2022,10/22/2022,Hamel Marusik,Chance Farnie,1753 Buhler Way
+997,Diesel,7882.75,1.42,11193.505,Palestinian Territory,Sweden,Ship,5/31/2022,7/8/2022,Thorpe Shayes,Deni MacDaid,50 Nobel Circle
+998,Heating Oil,9225.15,4.32,39852.648,China,Russia,Pipeline,5/19/2022,10/26/2022,Sergent Agett,Vincent Fennelly,098 Steensland Court
+999,Gasoline,7031.03,1.21,8507.5463,Ireland,China,Ship,1/8/2022,2/9/2022,Dasya Boyall,Rheta Tunney,8262 Hanson Crossing
+1000,Heating Oil,7418.57,1.84,13650.1688,Poland,Israel,Tank Truck,11/25/2022,11/26/2022,Nadine Moakler,Tabitha Phinnis,8 Maywood Lane
